@@ -1348,6 +1348,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-03-17 19:45:03 +0000"
@@ -1423,6 +1435,12 @@
   "techreborn:recipes/industrial_grinder/ruby_dust_from_helmet_with_mercury": {
     "criteria": {
       "has_ruby_helmet": "2025-03-17 18:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
     },
     "done": true
   },
@@ -2077,6 +2095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
     "criteria": {
       "has_tungstensteel_plate": "2025-03-17 17:22:44 +0000"
@@ -2319,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-17 18:21:14 +0000"
@@ -2328,6 +2358,12 @@
   "techreborn:recipes/extractor/rubber_from_slime_ball": {
     "criteria": {
       "has_slime_ball": "2025-03-17 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
     },
     "done": true
   },
@@ -2396,6 +2432,12 @@
   "techreborn:recipes/crafting_table/unit/storage/storage_buffer": {
     "criteria": {
       "has_wood_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
     },
     "done": true
   },
@@ -2559,9 +2601,10 @@
   "techreborn:root": {
     "criteria": {
       "crit_2": "2025-03-17 18:21:12 +0000",
-      "crit_1": "2025-03-17 18:15:22 +0000"
+      "crit_1": "2025-03-17 18:15:22 +0000",
+      "crit_0": "2025-03-17 20:10:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
     "criteria": {
@@ -2602,6 +2645,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-17 19:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
     },
     "done": true
   },
@@ -2681,6 +2730,12 @@
     "criteria": {
       "has_tin_plate": "2025-03-17 17:22:44 +0000",
       "has_copper_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
     },
     "done": true
   },
@@ -2855,6 +2910,12 @@
   "techreborn:recipes/misc/crafting_table/parts/template_template": {
     "criteria": {
       "has_diamond": "2025-03-17 17:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
     },
     "done": true
   },
@@ -3069,6 +3130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-03-17 18:44:43 +0000"
@@ -3129,6 +3196,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_ores_galena": "2025-03-17 20:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-03-17 19:31:24 +0000"
@@ -3183,6 +3256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-17 18:21:14 +0000"
@@ -3222,6 +3301,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
     },
     "done": true
   },
@@ -3489,6 +3574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/sapphire_dust_from_chestplate_with_water": {
     "criteria": {
       "has_sapphire_chestplate": "2025-03-17 18:26:55 +0000"
@@ -3672,6 +3763,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-03-17 19:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-03-17 20:10:06 +0000"
     },
     "done": true
   },
