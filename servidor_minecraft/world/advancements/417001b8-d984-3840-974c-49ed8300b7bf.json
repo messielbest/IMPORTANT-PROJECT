@@ -29,15 +29,20 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "aspen_glade": "2025-03-14 21:07:04 +0000",
       "spider_nest": "2025-03-14 21:33:36 +0000",
-      "field": "2025-03-14 21:12:34 +0000",
-      "highland": "2025-03-17 17:34:34 +0000",
+      "forested_field": "2025-03-17 18:00:48 +0000",
+      "mystic_grove": "2025-03-17 18:04:28 +0000",
       "maple_woods": "2025-03-17 17:26:42 +0000",
-      "crag": "2025-03-17 17:50:40 +0000",
-      "coniferous_forest": "2025-03-14 20:42:21 +0000",
+      "redwood_forest": "2025-03-17 18:07:22 +0000",
       "fir_clearing": "2025-03-14 21:00:44 +0000",
       "pumpkin_patch": "2025-03-14 21:09:59 +0000",
+      "aspen_glade": "2025-03-14 21:07:04 +0000",
+      "glowing_grotto": "2025-03-17 17:59:37 +0000",
+      "field": "2025-03-14 21:12:34 +0000",
+      "overgrown_greens": "2025-03-17 18:06:55 +0000",
+      "highland": "2025-03-17 17:34:34 +0000",
+      "crag": "2025-03-17 17:50:40 +0000",
+      "coniferous_forest": "2025-03-14 20:42:21 +0000",
       "ominous_woods": "2025-03-14 21:16:26 +0000"
     },
     "done": false
@@ -147,6 +152,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-14 21:10:28 +0000",
+      "minecraft:vindicator": "2025-03-17 18:02:28 +0000",
       "minecraft:spider": "2025-03-14 20:59:40 +0000",
       "minecraft:zombie": "2025-03-14 20:43:13 +0000"
     },
@@ -487,6 +493,7 @@
       "apple": "2025-03-17 17:44:59 +0000",
       "bread": "2025-03-14 21:42:18 +0000",
       "cooked_mutton": "2025-03-14 21:08:01 +0000",
+      "cooked_cod": "2025-03-17 18:00:40 +0000",
       "cooked_beef": "2025-03-14 21:01:32 +0000",
       "baked_potato": "2025-03-15 00:27:29 +0000"
     },
@@ -1939,6 +1946,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-03-17 18:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:54:31 +0000"
@@ -1966,6 +1979,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-17 17:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-17 18:05:38 +0000"
     },
     "done": true
   },
@@ -2014,6 +2033,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-17 17:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/root": {
+    "criteria": {
+      "got_nickel": "2025-03-17 18:06:19 +0000"
     },
     "done": true
   },
@@ -2077,6 +2102,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_glowflower": "2025-03-17 18:06:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/methan_cell_from_kelp": {
     "criteria": {
       "has_kelp": "2025-03-17 17:57:38 +0000"
@@ -2098,6 +2129,12 @@
   "oritech:recipes/misc/platinum_ingot_from_smelting_raw_platinum": {
     "criteria": {
       "has_raw_platinum": "2025-03-17 17:54:22 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/nickel_ingot_from_blasting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-03-17 18:06:19 +0000"
     },
     "done": true
   },
@@ -2186,6 +2223,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-17 18:04:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-03-17 17:54:38 +0000"
@@ -2255,6 +2298,12 @@
   "techreborn:recipes/crafting_table/machine/electric_furnace": {
     "criteria": {
       "has_iron_furnace": "2025-03-17 17:39:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-17 18:05:38 +0000"
     },
     "done": true
   },
@@ -2351,6 +2400,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-17 17:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-17 18:05:38 +0000"
     },
     "done": true
   },
@@ -2498,6 +2553,12 @@
     },
     "done": true
   },
+  "oritech:recipes/misc/raw_nickel_blockblock": {
+    "criteria": {
+      "has_raw_nickel": "2025-03-17 18:06:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:54:31 +0000"
@@ -2582,6 +2643,12 @@
     },
     "done": true
   },
+  "alloy_forgery:recipes/alloy_forgery/compat/forge_nickel_ingots_from_raw_material": {
+    "criteria": {
+      "has_nickel_ingots_from_raw_material": "2025-03-17 18:06:19 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/misc/item_trash_can": {
     "criteria": {
       "recipe_condition": "2025-03-17 17:35:32 +0000"
@@ -2645,6 +2712,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-17 17:36:39 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/nickel_ingot_from_smelting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-03-17 18:06:19 +0000"
     },
     "done": true
   },

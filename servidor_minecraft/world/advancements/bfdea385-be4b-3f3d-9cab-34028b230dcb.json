@@ -1333,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-17 17:58:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/methan_cell_from_egg": {
     "criteria": {
       "has_egg": "2025-03-17 17:43:04 +0000"
@@ -1393,6 +1399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-17 17:58:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 17:56:19 +0000"
@@ -1402,6 +1414,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-17 17:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/root": {
+    "criteria": {
+      "got_nickel": "2025-03-17 18:03:03 +0000"
     },
     "done": true
   },
@@ -1544,6 +1562,12 @@
     },
     "done": true
   },
+  "oritech:recipes/misc/nickel_ingot_from_blasting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-03-17 18:03:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
     "criteria": {
       "has_steel_plate": "2025-03-17 17:22:44 +0000"
@@ -1589,6 +1613,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-17 17:58:37 +0000"
     },
     "done": true
   },
@@ -1755,6 +1785,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-17 17:58:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/iron_plate": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 17:22:44 +0000"
@@ -1789,6 +1825,12 @@
   "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_stone_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-17 17:58:37 +0000"
     },
     "done": true
   },
@@ -1933,6 +1975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-17 17:58:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/golden_carrot": {
     "criteria": {
       "has_carrot": "2025-03-17 17:22:44 +0000"
@@ -2003,6 +2051,12 @@
   "wormhole:recipes/misc/target_device": {
     "criteria": {
       "recipe_condition": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-17 17:58:37 +0000"
     },
     "done": true
   },
@@ -2163,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-17 17:58:37 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/chiller": {
     "criteria": {
       "has_spruce": "2025-03-17 17:27:00 +0000"
@@ -2196,6 +2256,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:48:18 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/raw_nickel_blockblock": {
+    "criteria": {
+      "has_raw_nickel": "2025-03-17 18:03:03 +0000"
     },
     "done": true
   },
@@ -2320,6 +2386,12 @@
     },
     "done": true
   },
+  "alloy_forgery:recipes/alloy_forgery/compat/forge_nickel_ingots_from_raw_material": {
+    "criteria": {
+      "has_nickel_ingots_from_raw_material": "2025-03-17 18:03:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/lithium_ion_batpack": {
     "criteria": {
       "has_aluminum_plate": "2025-03-17 17:22:44 +0000"
@@ -2353,6 +2425,18 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:48:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
+    "criteria": {
+      "has_redstone": "2025-03-17 17:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-17 17:58:37 +0000"
     },
     "done": true
   },
@@ -2392,6 +2476,12 @@
     },
     "done": true
   },
+  "oritech:recipes/misc/nickel_ingot_from_smelting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-03-17 18:03:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/gold_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 17:56:19 +0000"
@@ -2425,6 +2515,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 17:56:19 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-03-17 17:58:37 +0000"
     },
     "done": true
   },
@@ -2516,6 +2612,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 17:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-17 17:58:37 +0000"
     },
     "done": true
   },
