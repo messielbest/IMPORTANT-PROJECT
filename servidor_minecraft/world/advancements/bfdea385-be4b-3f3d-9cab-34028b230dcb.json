@@ -218,7 +218,8 @@
     "criteria": {
       "bread": "2025-03-14 21:12:54 +0000",
       "cooked_mutton": "2025-03-14 21:07:37 +0000",
-      "cooked_beef": "2025-03-14 21:06:33 +0000"
+      "cooked_beef": "2025-03-14 21:06:33 +0000",
+      "carrot": "2025-03-17 17:46:53 +0000"
     },
     "done": false
   },
@@ -732,6 +733,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-03-17 17:33:48 +0000",
       "minecraft:skeleton": "2025-03-14 21:27:11 +0000",
       "minecraft:zombie": "2025-03-17 17:32:31 +0000"
     },
@@ -1259,6 +1261,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-03-17 17:34:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/gas_turbine_alt": {
     "criteria": {
       "has_aluminum_plate": "2025-03-17 17:22:44 +0000"
@@ -1277,9 +1285,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-17 17:41:01 +0000"
+    },
+    "done": true
+  },
   "oritech:recipes/alloy_forgery/compat/alloyforgery/steel": {
     "criteria": {
       "has_c_ingots_iron": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-17 17:33:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/methan_cell_from_egg": {
+    "criteria": {
+      "has_egg": "2025-03-17 17:43:04 +0000"
     },
     "done": true
   },
@@ -1301,6 +1327,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/methan_cell_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-17 17:33:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/ingot/iridium_alloy_ingot": {
     "criteria": {
       "has_iridium_plate": "2025-03-17 17:22:44 +0000"
@@ -1310,6 +1342,12 @@
   "techreborn:recipes/blast_furnace/miner_pottery_sherd": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-17 17:28:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/gold_plate_from_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-17 17:41:01 +0000"
     },
     "done": true
   },
@@ -1362,6 +1400,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-03-17 17:42:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
     "criteria": {
       "has_sapling": "2025-03-17 17:22:44 +0000"
@@ -1398,6 +1442,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-17 17:41:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-17 17:32:09 +0000"
@@ -1416,9 +1466,21 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-03-17 17:40:08 +0000"
+    },
+    "done": false
+  },
   "techreborn:recipes/crafting_table/tool/painting_tool": {
     "criteria": {
       "has_bronze_ingot": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-17 17:42:00 +0000"
     },
     "done": true
   },
@@ -1539,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-17 17:42:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
     "criteria": {
       "has_the_recipe": "2025-03-17 17:22:44 +0000"
@@ -1607,6 +1675,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-17 17:40:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/basic_display": {
     "criteria": {
       "has_refined_iron_plate": "2025-03-17 17:22:44 +0000"
@@ -1662,9 +1736,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-03-17 17:41:01 +0000"
+    },
+    "done": true
+  },
   "wormhole:recipes/misc/target_device": {
     "criteria": {
       "recipe_condition": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-17 17:41:01 +0000"
     },
     "done": true
   },
@@ -1705,6 +1791,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/leather": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-17 17:33:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/smelting/refined_iron_ingot_from_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 17:22:44 +0000"
@@ -1723,6 +1815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-17 17:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-17 17:27:00 +0000"
@@ -1738,6 +1836,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/enchanted_golden_apple": {
+    "criteria": {
+      "has_gold_block": "2025-03-17 17:41:01 +0000"
     },
     "done": true
   },
@@ -1838,6 +1942,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-03-17 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-03-17 17:40:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/lithium_ion_batpack": {
     "criteria": {
       "has_aluminum_plate": "2025-03-17 17:22:44 +0000"
@@ -1868,6 +1984,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/bone": {
+    "criteria": {
+      "has_bone": "2025-03-17 17:34:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-17 17:35:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_planks": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-03-17 17:22:44 +0000"
@@ -1892,6 +2020,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-03-17 17:47:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing_alt": {
     "criteria": {
       "has_steel_plate": "2025-03-17 17:22:44 +0000"
@@ -1901,6 +2035,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-17 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-17 17:41:01 +0000"
     },
     "done": true
   },
@@ -1950,6 +2090,12 @@
   "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
     "criteria": {
       "has_steel_ingot": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-17 17:35:57 +0000"
     },
     "done": true
   },
