@@ -682,3 +682,17 @@
 [22:32:47] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
 [22:32:47] [Server thread/INFO]: RazlyBlaze left the game
 [22:32:47] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[22:44:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@5d33a417[id=bfdea385-be4b-3f3d-9cab-34028b230dcb,name=RazlyBlaze,properties={}] lost connection: Disconnected
+[22:44:40] [Server thread/INFO]: Stopping the server
+[22:44:40] [Server thread/INFO]: Stopping server
+[22:44:40] [Server thread/INFO]: Saving players
+[22:44:40] [Server thread/INFO]: Saving worlds
+[22:44:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[22:44:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[22:44:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[22:44:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:44:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:44:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:44:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:44:41] [Server thread/INFO]: Stopping IO worker...
+[22:44:41] [Server thread/INFO]: Stopped IO worker!
