@@ -606,6 +606,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "smoker": "2025-03-17 19:50:36 +0000",
       "blastfurnace": "2025-03-17 19:25:07 +0000",
       "oceanographytable": "2025-03-14 21:13:22 +0000"
     },
@@ -3016,6 +3017,12 @@
   "oritech:recipes/misc/raw_nickel_blockblock": {
     "criteria": {
       "has_raw_nickel": "2025-03-17 18:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-03-17 19:48:09 +0000"
     },
     "done": true
   },
