@@ -3803,6 +3803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-17 20:03:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:machineblock": {
     "criteria": {
       "crit_0": "2025-03-17 19:30:40 +0000"

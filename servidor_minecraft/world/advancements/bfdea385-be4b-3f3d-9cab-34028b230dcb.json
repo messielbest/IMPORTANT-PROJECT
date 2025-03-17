@@ -1582,6 +1582,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-17 20:01:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/gold_plate_from_block": {
     "criteria": {
       "has_gold_block": "2025-03-17 17:41:01 +0000"
