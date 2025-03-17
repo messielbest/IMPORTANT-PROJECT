@@ -3077,6 +3077,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-17 20:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-03-17 19:40:14 +0000"
@@ -3245,6 +3251,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-03-17 20:21:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/advanced_circuit": {
     "criteria": {
       "has_electronic_circuit": "2025-03-17 19:24:43 +0000"
@@ -3344,6 +3356,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-17 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-17 20:21:25 +0000"
     },
     "done": true
   },
@@ -3476,6 +3494,12 @@
   "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-17 19:06:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-17 20:21:25 +0000"
     },
     "done": true
   },
@@ -3864,6 +3888,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-03-17 20:21:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/leather": {
     "criteria": {
       "has_rotten_flesh": "2025-03-17 18:56:44 +0000"
@@ -4074,6 +4104,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-17 20:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-17 19:11:50 +0000"
@@ -4122,9 +4158,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-17 20:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-03-17 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-17 20:21:25 +0000"
     },
     "done": true
   },
@@ -4245,6 +4293,12 @@
   "techreborn:recipes/crafting_table/cable/superconductor_cable": {
     "criteria": {
       "has_energy_flow_chip": "2025-03-17 19:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-17 20:21:25 +0000"
     },
     "done": true
   },

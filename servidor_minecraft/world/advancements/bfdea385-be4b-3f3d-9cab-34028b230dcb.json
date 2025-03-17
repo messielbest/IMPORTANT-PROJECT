@@ -1420,6 +1420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 17:56:19 +0000"
@@ -2010,6 +2016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:20:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/fishing_station": {
     "criteria": {
       "has_sapphire_plates": "2025-03-17 17:22:44 +0000"
@@ -2107,6 +2119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:20:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
     "criteria": {
       "has_ruby_gem": "2025-03-17 18:24:09 +0000"
@@ -2188,6 +2206,12 @@
   "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
     "criteria": {
       "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:20:48 +0000"
     },
     "done": true
   },
@@ -2310,6 +2334,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-03-17 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-17 20:20:34 +0000"
     },
     "done": true
   },
@@ -2441,6 +2471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-17 20:20:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/semi_fluid_generator_alt": {
     "criteria": {
       "has_aluminum_plate": "2025-03-17 17:22:44 +0000"
@@ -2552,6 +2588,12 @@
   "techreborn:recipes/crafting_table/parts/electronic_circuit": {
     "criteria": {
       "has_refined_iron_ingot": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:20:48 +0000"
     },
     "done": true
   },
@@ -2871,6 +2913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-17 18:21:14 +0000"
@@ -2886,6 +2934,12 @@
   "techreborn:recipes/crafting_table/parts/data_storage_core": {
     "criteria": {
       "has_peridot_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:20:48 +0000"
     },
     "done": true
   },
@@ -3184,6 +3238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:20:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
     "criteria": {
       "has_peridot_gem": "2025-03-17 18:21:12 +0000"
@@ -3478,6 +3538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-17 17:58:37 +0000"
@@ -3721,6 +3787,12 @@
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing_alt": {
     "criteria": {
       "has_steel_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-03-17 20:20:34 +0000"
     },
     "done": true
   },
