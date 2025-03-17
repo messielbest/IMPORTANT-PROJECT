@@ -39,6 +39,8 @@
       "pumpkin_patch": "2025-03-14 21:09:59 +0000",
       "prairie": "2025-03-17 18:36:22 +0000",
       "aspen_glade": "2025-03-14 21:07:05 +0000",
+      "dune_beach": "2025-03-17 18:48:19 +0000",
+      "gravel_beach": "2025-03-17 18:49:08 +0000",
       "glowing_grotto": "2025-03-17 18:25:07 +0000",
       "field": "2025-03-14 21:12:55 +0000",
       "orchard": "2025-03-17 18:10:31 +0000",
@@ -308,9 +310,11 @@
       "minecraft:stony_shore": "2025-03-14 21:07:06 +0000",
       "minecraft:dripstone_caves": "2025-03-14 21:32:29 +0000",
       "minecraft:deep_cold_ocean": "2025-03-14 21:18:46 +0000",
+      "minecraft:ocean": "2025-03-17 18:48:14 +0000",
       "minecraft:grove": "2025-03-17 18:30:25 +0000",
       "minecraft:meadow": "2025-03-14 21:23:18 +0000",
       "minecraft:birch_forest": "2025-03-17 18:23:13 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-03-17 18:57:53 +0000",
       "minecraft:plains": "2025-03-14 21:39:03 +0000"
     },
     "done": false
@@ -1277,6 +1281,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-17 18:54:05 +0000"
+    },
+    "done": true
+  },
   "alloy_forgery:recipes/alloy_forgery/compat/forge_tin_ingots_from_raw_material": {
     "criteria": {
       "has_tin_ingots_from_raw_material": "2025-03-17 18:15:22 +0000"
@@ -1532,6 +1542,12 @@
   "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing": {
     "criteria": {
       "has_chromium_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-17 18:53:54 +0000"
     },
     "done": true
   },
@@ -1840,6 +1856,12 @@
   "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-17 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-03-17 18:54:28 +0000"
     },
     "done": true
   },
@@ -2361,6 +2383,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-03-17 18:53:59 +0000"
+    },
+    "done": true
+  },
   "wormhole:recipes/misc/basic_target_cell": {
     "criteria": {
       "recipe_condition": "2025-03-17 17:22:44 +0000"
@@ -2499,6 +2527,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-03-17 18:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:48:18 +0000"
@@ -2508,6 +2542,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:48:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-17 18:54:05 +0000"
     },
     "done": true
   },
@@ -2532,6 +2572,12 @@
   "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
     "criteria": {
       "has_refined_iron": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-03-17 18:54:28 +0000"
     },
     "done": true
   },
@@ -2574,6 +2620,12 @@
   "morevillagers:recipes/chiller": {
     "criteria": {
       "has_spruce": "2025-03-17 17:27:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-03-17 18:53:54 +0000"
     },
     "done": true
   },
@@ -2734,6 +2786,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-03-17 18:53:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_cobblestone": "2025-03-17 17:22:44 +0000"
@@ -2848,6 +2906,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-17 18:54:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
     "criteria": {
       "has_golden_leggings": "2025-03-17 18:29:20 +0000"
@@ -2905,6 +2969,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-03-17 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-17 18:54:01 +0000"
     },
     "done": true
   },

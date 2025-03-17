@@ -267,6 +267,7 @@
       "mutton": "2025-03-14 21:01:49 +0000",
       "chicken": "2025-03-17 17:27:38 +0000",
       "bread": "2025-03-17 17:34:14 +0000",
+      "golden_apple": "2025-03-17 18:50:10 +0000",
       "beef": "2025-03-17 18:29:40 +0000",
       "porkchop": "2025-03-17 17:28:00 +0000"
     },
@@ -1349,6 +1350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-17 19:02:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/gold_cable": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 18:32:49 +0000"
@@ -1925,6 +1932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-17 19:02:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-17 17:49:51 +0000"
@@ -1988,6 +2001,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 18:32:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-03-17 19:02:54 +0000"
     },
     "done": true
   },
@@ -2276,6 +2295,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-17 17:55:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-17 19:02:52 +0000"
     },
     "done": true
   },
