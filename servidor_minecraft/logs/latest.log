@@ -1,8 +1,8 @@
-[17:17:31] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.10
-[17:17:32] [main/WARN]: Warnings were found!
+[22:56:09] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.10
+[22:56:10] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[17:17:32] [main/INFO]: Loading 143 mods:
+[22:56:10] [main/INFO]: Loading 154 mods:
 	- alloy_forgery 2.4.1+1.21
 	- appleskin 3.0.6+mc1.21
 	- architectury 13.0.8
@@ -15,6 +15,9 @@
 	- athena 4.0.1
 	- balm-fabric 21.0.31
 	   \-- kuma_api 21.0.5-SNAPSHOT
+	- bettercombat 2.1.3+1.21.1
+	- betterdungeons 1.21.1-Fabric-5.1.4
+	   \-- org_reflections_reflections 0.10.2
 	- biomesoplenty 21.1.0.8
 	- charmofundying 9.1.0+1.21.1
 	   \-- spectrelib 0.17.2+1.21
@@ -27,6 +30,7 @@
 	- coroutil 1.21.1-1.3.8
 	- cupboard 1.21-2.9
 	- elytraslot 9.0.1+1.21.1
+	- explorify 1.6.2
 	- fabric-api 0.115.1+1.21.1
 	   |-- fabric-api-base 0.4.42+6573ed8c19
 	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
@@ -101,13 +105,13 @@
 	- modernfix 5.20.2+mc1.21.1
 	- moonlight 1.21-2.17.36
 	- morevillagers 5.1.0
+	- mr_dungeons_andtaverns 1-v4.4.4
 	- netherportalfix 21.1.3
 	- notenoughanimations 1.9.2
 	- openpartiesandclaims 0.24.0
 	- oritech 0.14.4
 	   \-- team_reborn_energy 4.1.0
 	- owo 0.12.15.1+1.21
-	   |-- blue_endless_jankson 1.2.2
 	   |-- io_wispforest_endec 0.1.5
 	   |-- io_wispforest_endec_gson 0.1.3
 	   |-- io_wispforest_endec_jankson 0.1.3
@@ -174,525 +178,327 @@
 	- waystones 21.1.12
 	- wormhole 1.1.16
 	- xaerominimap 25.1.0
-[17:17:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/IMPORTANT-PROJECT/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:17:32] [main/INFO]: Compatibility level set to JAVA_21
-[17:17:33] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:17:33] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:17:33] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:17:33] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[17:17:33] [main/WARN]: Mod 'supplementaries' attempted to override option 'mixins.block.moving_block_shapes', which doesn't exist, ignoring
-[17:17:33] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[17:17:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[17:17:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[17:17:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[17:17:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[17:17:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[17:17:33] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 2 override(s) found
-[17:17:33] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.21.1: 57 options available, 0 override(s) found
-[17:17:33] [main/INFO]: Applying Nashorn fix
-[17:17:33] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:17:33] [main/WARN]: Reference map 'trashcans.mixins.refmap.json' for trashcans.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:17:33] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:17:33] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[17:17:33] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
-[17:17:34] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.PistonMovingBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[17:17:34] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[17:17:34] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[17:17:34] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[17:17:34] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[17:17:34] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[17:17:34] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[17:17:34] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
-[17:17:34] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
-[17:17:34] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[17:17:34] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[17:17:34] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[17:17:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.3).
-[17:17:38] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[17:17:38] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[17:17:42] [main/INFO]: Vanilla bootstrap took 6885 milliseconds
-[17:17:43] [main/INFO]: fabric loader environment detected
-[17:17:43] [main/INFO]: Loaded config for: cupboard.json
-[17:17:43] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
-[17:17:43] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
-[17:17:43] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
-[17:17:43] [main/ERROR]: No data fixer registered for artifacts:mimic
-[17:17:43] [main/INFO]: Loaded C2B lib.
-[17:17:43] [main/INFO]: ExpandAbility here, who dis?
-[17:17:43] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[17:17:43] [main/INFO]: Registering C2S receiver with id ftblibrary:sync_config_to_server_packet
-[17:17:43] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed_packet
-[17:17:43] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed_packet
-[17:17:43] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server_packet
-[17:17:44] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[17:17:44] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[17:17:44] [main/ERROR]: No data fixer registered for anomaly
-[17:17:44] [main/ERROR]: No data fixer registered for immersive_aircraft:gyrodyne
-[17:17:44] [main/ERROR]: No data fixer registered for immersive_aircraft:biplane
-[17:17:44] [main/ERROR]: No data fixer registered for immersive_aircraft:airship
-[17:17:44] [main/ERROR]: No data fixer registered for immersive_aircraft:cargo_airship
-[17:17:44] [main/ERROR]: No data fixer registered for immersive_aircraft:warship
-[17:17:44] [main/ERROR]: No data fixer registered for immersive_aircraft:quadrocopter
-[17:17:44] [main/ERROR]: No data fixer registered for immersive_aircraft:bullet
-[17:17:44] [main/ERROR]: No data fixer registered for immersive_aircraft:tiny_tnt
-[17:17:44] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
-[17:17:44] [main/INFO]: ---------------------------
-[17:17:44] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[17:17:44] [main/INFO]:  
-[17:17:44] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[17:17:44] [main/INFO]: Open Imaging is licensed under Apache-2.0.
-[17:17:44] [main/INFO]:  
-[17:17:44] [main/INFO]: JsonPath Copyright © 2017 Jayway.
-[17:17:44] [main/INFO]: JsonPath is licensed under Apache-2.0.
-[17:17:44] [main/INFO]:  
-[17:17:44] [main/INFO]: Json-smart Copyright © netplex.
-[17:17:44] [main/INFO]: Json-smart is licensed under Apache-2.0.
-[17:17:44] [main/INFO]:  
-[17:17:44] [main/INFO]: Exp4j Copyright © Frank Asseg.
-[17:17:44] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[17:17:44] [main/INFO]: ---------------------------
-[17:17:44] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[17:17:44] [main/INFO]: Running Oritech registrations...
-[17:17:44] [main/INFO]: Oritech registrations complete
-[17:17:44] [main/INFO]: Begin Oritech initialization
-[17:17:44] [main/INFO]: Oritech initialization complete
-[17:17:44] [main/INFO]: chyz: How could you do this to me, Blod. I loved you like a guy I don't know in real life :(
-[17:17:44] [main/INFO]: Constructing common components for puzzleslib:main
-[17:17:45] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
-[17:17:45] [main/INFO]: [REI] Registered plugin provider AlloyForgeryCommonPlugin [alloy_forgery] for REIPlugin
-[17:17:45] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[17:17:45] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
-[17:17:45] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[17:17:45] [main/INFO]: [REI] Registered plugin provider REICompat [sophisticatedbackpacks] for REIPlugin
-[17:17:45] [main/INFO]: [REI] Registered plugin provider AlloyForgeryCommonPlugin [alloy_forgery] for REIServerPlugin
-[17:17:45] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
-[17:17:45] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[17:17:45] [main/INFO]: [REI] Registered plugin provider REICompat [sophisticatedbackpacks] for REIServerPlugin
-[17:17:45] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
-[17:17:45] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
-[17:17:45] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[17:17:45] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[17:17:45] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[17:17:45] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[17:17:45] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
-[17:17:45] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[17:17:45] [main/INFO]: [ServerCore] Loaded V1.5.5+1.21.1!
-[17:17:45] [main/ERROR]: No data fixer registered for 
-[17:17:45] [main/INFO]: Loaded config supplementaries-common.json
-[17:17:46] [main/INFO]: TechReborn setup done!
-[17:17:46] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[17:17:46] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[17:17:46] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[17:17:46] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[17:17:46] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[17:17:46] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[17:17:46] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[17:17:46] [main/INFO]: Tom's Storage Setup starting
-[17:17:46] [main/INFO]: Constructing common components for visualworkbench:main
-[17:17:46] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
-[17:17:47] [main/INFO]: Initialized block sets in 14ms
-[17:17:47] [main/ERROR]: No data fixer registered for dispenser_minecart
-[17:17:47] [main/ERROR]: No data fixer registered for falling_urn
-[17:17:47] [main/ERROR]: No data fixer registered for falling_ash
-[17:17:47] [main/ERROR]: No data fixer registered for falling_sack
-[17:17:47] [main/ERROR]: No data fixer registered for brick_projectile
-[17:17:47] [main/ERROR]: No data fixer registered for slimeball_projectile
-[17:17:47] [main/ERROR]: No data fixer registered for bomb
-[17:17:47] [main/ERROR]: No data fixer registered for cannonball
-[17:17:47] [main/ERROR]: No data fixer registered for rope_arrow
-[17:17:47] [main/ERROR]: No data fixer registered for slingshot_projectile
-[17:17:47] [main/INFO]: Loaded config moonlight-common.json
-[17:17:47] [main/INFO]: Initialized color sets in 36ms
-[17:17:47] [main/INFO]: Finished mod setup in: [0, 1, 0, 2, 13, 3, 0] ms
-[17:17:47] [main/INFO]: Loading Open Parties and Claims!
-[17:17:47] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[17:17:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:17:47] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 28 ms
-[17:17:50] [main/INFO]: Loaded 5467 recipes
-[17:17:50] [main/ERROR]: Parsing error loading custom advancement supplementaries:adventure/way_sign: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: supplementaries:way_sing_oak
-[17:17:50] [main/INFO]: Loaded 4650 advancements
-[17:17:50] [main/INFO]: Applied 7 data villager trades
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/ocean_ruin_cold - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_snowy_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_toolsmith - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/pillager_outpost - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_tannery - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/ancient_city_ice_box - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/entities/cow - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/ancient_city - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_plains_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/ruined_portal - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/underwater_ruin_big - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_weaponsmith - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/igloo_chest - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/desert_pyramid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_temple - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_desert_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/woodland_mansion - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/buried_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/spawn_bonus_chest - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/desert_pyramid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/end_city_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_taiga_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/nether_bridge - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/desert_well - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/shipwreck_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/jungle_temple - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/stronghold_corridor - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_butcher - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_savanna_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/ocean_ruin_warm - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_armorer - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/trail_ruins_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/entities/mooshroom - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
-[17:17:50] [main/INFO]: [REI] ########################################
-[17:17:50] [main/INFO]: [REI] REIPlugin starting main-reload for START.
-[17:17:50] [main/INFO]: [REI] Plugins (5):
-[17:17:50] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[17:17:50] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[17:17:50] [main/INFO]: [REI]  - (0.00) REICompat of REICompat [sophisticatedbackpacks]
-[17:17:50] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[17:17:50] [main/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
-[17:17:50] [main/INFO]: [REI] ########################################
-[17:17:50] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[17:17:50] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
-[17:17:50] [main/INFO]: [REI] Plugins (5):
-[17:17:50] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[17:17:50] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[17:17:50] [main/INFO]: [REI]  - (0.00) REICompat of REICompat [sophisticatedbackpacks]
-[17:17:50] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[17:17:50] [main/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
-[17:17:50] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[17:17:50] [main/INFO]: [REI] REIPlugin finished post-reload for START in 2.170 ms, totaling 46.11 ms.
-[17:17:50] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 1.398 ms, totaling 8.208 ms.
-[17:17:50] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[17:17:50] [main/INFO]: [REI] REIPlugin starting main-reload for END.
-[17:17:50] [main/INFO]: [REI] Plugins (5):
-[17:17:50] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[17:17:50] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[17:17:50] [main/INFO]: [REI]  - (0.00) REICompat of REICompat [sophisticatedbackpacks]
-[17:17:50] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[17:17:50] [main/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
-[17:17:50] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[17:17:50] [main/INFO]: [REI] ----------------------------------------
-[17:17:50] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
-[17:17:50] [main/INFO]: [REI] Plugins (5):
-[17:17:50] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[17:17:50] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[17:17:50] [main/INFO]: [REI]  - (0.00) REICompat of REICompat [sophisticatedbackpacks]
-[17:17:50] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[17:17:50] [main/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
-[17:17:50] [main/INFO]: [REI] ----------------------------------------
-[17:17:50] [main/INFO]: [REI] REIPlugin finished post-reload for END in 2.661 ms, totaling 30.61 ms.
-[17:17:50] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 2.125 ms, totaling 19.11 ms.
-[17:17:50] [main/INFO]: Loaded 27 flute songs
-[17:17:50] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: runes:runes
-[17:17:50] [main/INFO]: Registering custom dispenser behaviors
-[17:17:51] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[17:17:51] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[17:17:52] [main/INFO]: Applied 1508 biome modifications to 134 of 134 new biomes in 816.9 ms
-[17:17:52] [Server thread/INFO]: Starting background profiler...
-[17:17:52] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 1 string chunks with the size of 10000)
-[17:17:52] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:17:52] [Server thread/INFO]: Loading properties
-[17:17:52] [Server thread/INFO]: Default game type: SURVIVAL
-[17:17:52] [Server thread/INFO]: Generating keypair
-[17:17:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:17:52] [Server thread/INFO]: Using epoll channel type
-[17:17:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:17:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:17:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:17:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:17:52] [Server thread/INFO]: Preparing level "world"
-[17:17:52] [Server thread/INFO]: Initializing Open Parties and Claims for the server...
-[17:17:52] [Server thread/INFO]: Loading server info!
-[17:17:53] [Server thread/INFO]: Loading player configs...
-[17:17:53] [Server thread/INFO]: Loaded player configs!
-[17:17:53] [Server thread/INFO]: Loading parties...
-[17:17:53] [Server thread/INFO]: Loaded parties!
-[17:17:53] [Server thread/INFO]: Fixing party inconsistencies...
-[17:17:53] [Server thread/INFO]: Registered party system for OPAC: default
-[17:17:53] [Server thread/INFO]: Registered permission system for OPAC: permission_api
-[17:17:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:17:53] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
-[17:17:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:17:54] [Server thread/INFO]: Time elapsed: 542 ms
-[17:17:54] [Server thread/INFO]: Done (1.323s)! For help, type "help"
-[17:17:54] [Server thread/WARN]: Dedicated server took 23.731 seconds to load
-[17:17:54] [Server thread/INFO]: Loaded config for: smoothchunk.json
-[17:17:59] [Server thread/INFO]: Loading claims...
-[17:17:59] [Server thread/INFO]: Loaded claims in 2ms
-[17:17:59] [Server thread/WARN]: The configured permission system "prometheus" isn't registered!
-[17:17:59] [Server thread/INFO]: Configured OPAC to use the following permission system: permission_api
-[17:17:59] [Server thread/WARN]: The configured primary party system "argonauts_guilds" isn't registered!
-[17:17:59] [Server thread/INFO]: Configured OPAC to use the following party system as primary: default
-[17:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5237ms or 104 ticks behind
-[17:17:59] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[17:21:13] [Server thread/INFO]: elpatomaster[/10.241.83.103:55376] logged in with entity id 12 at (-3038.826452225663, 144.0, 123.03905274273576)
-[17:21:13] [Server thread/INFO]: Sending server config values to client
-[17:21:13] [Server thread/INFO]: elpatomaster joined the game
-[17:21:13] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
-[17:21:14] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[17:21:14] [Server thread/INFO]: Receiving client config
-[17:22:06] [Server thread/INFO]: moreracamilo[/10.241.166.48:50501] logged in with entity id 506 at (-159.3592992228768, 70.0, -42.98005437273687)
-[17:22:06] [Server thread/INFO]: Sending server config values to client
-[17:22:06] [Server thread/INFO]: moreracamilo joined the game
-[17:22:06] [Server thread/INFO]: Updating all forceload tickets for edcb9d66-2132-3b8b-b620-c82dd269fbc2
-[17:22:07] [Server thread/INFO]: Receiving client config
-[17:22:44] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:54191] logged in with entity id 891 at (-2521.877648671978, 36.0, -28.622452063224102)
-[17:22:44] [Server thread/INFO]: Sending server config values to client
-[17:22:44] [Server thread/INFO]: RazlyBlaze joined the game
-[17:22:44] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
-[17:22:45] [Server thread/INFO]: Receiving client config
-[17:23:32] [Server thread/INFO]: [Not Secure] <elpatomaster> -3039 144 214
-[17:23:34] [Server thread/INFO]: [Not Secure] <elpatomaster> -3039 144 124
-[17:28:41] [Server thread/INFO]: elpatomaster has made the advancement ['X' Marks the Spot]
-[17:29:33] [Server thread/INFO]: [Not Secure] <elpatomaster> -3039 144 124
-[17:33:21] [Server thread/INFO]: RazlyBlaze has made the advancement [Not Today, Thank You]
-[17:34:05] [Server thread/INFO]: moreracamilo has made the advancement ['X' Marks the Spot]
-[17:34:32] [Server thread/INFO]: moreracamilo has made the advancement [Amateur Archaeologist]
-[17:37:28] [Server thread/INFO]: moreracamilo lost connection: Disconnected
-[17:37:28] [Server thread/INFO]: moreracamilo left the game
-[17:37:28] [Server thread/INFO]: Updating all forceload tickets for edcb9d66-2132-3b8b-b620-c82dd269fbc2
-[17:37:51] [Server thread/INFO]: moreracamilo[/10.241.166.48:51365] logged in with entity id 15936 at (-2832.6463859547603, 112.0, 126.77006938398252)
-[17:37:51] [Server thread/INFO]: Sending server config values to client
-[17:37:51] [Server thread/INFO]: moreracamilo joined the game
-[17:37:51] [Server thread/INFO]: Updating all forceload tickets for edcb9d66-2132-3b8b-b620-c82dd269fbc2
-[17:37:51] [Server thread/INFO]: Receiving client config
-[17:39:55] [Server thread/INFO]: elpatomaster has made the advancement [Flashy Furnace]
-[17:40:08] [Server thread/INFO]: RazlyBlaze has made the advancement ['X' Marks the Spot]
-[17:40:24] [Server thread/INFO]: moreracamilo has made the advancement [Acquire Hardware]
-[17:48:06] [Server thread/INFO]: RazlyBlaze has made the advancement [Diamonds!]
-[17:49:51] [Server thread/INFO]: moreracamilo has made the advancement [Stone Age]
-[17:54:15] [Server thread/INFO]: elpatomaster has made the advancement [Isn't It Iron Pick]
-[17:54:26] [Server thread/INFO]: elpatomaster has made the advancement [Diamonds!]
-[17:55:34] [Server thread/INFO]: moreracamilo has made the advancement [Getting an Upgrade]
-[17:57:27] [Server thread/INFO]: elpatomaster has made the advancement [Barrel Booty]
-[17:57:32] [Server thread/INFO]: elpatomaster has made the advancement [Delightful Decade]
-[17:58:54] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3980, y=-9, z=430}
-[17:58:54] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3978, y=-9, z=430}
-[17:59:17] [pool-10-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos class_2338{x=-4213, y=72, z=379}
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -2.1167041140847687,0.0,-9.993498721258788
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -2.29427643407098,0.0,-10.344867833291914
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -2.4774176335076845,0.0,-10.693594522298554
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -2.665791473261379,0.0,-11.039783498812653
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -2.859069562836339,0.0,-11.38354572141509
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -3.0569370463399537,0.0,-11.724993640581943
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -3.2590914650891136,0.0,-12.064241358693948
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -3.465244773792165,0.0,-12.401402415936445
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -3.67512204449622,0.0,-12.736590051409848
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -3.888463332525589,0.0,-13.069915068844466
-[17:59:19] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -4.105025294358256,0.0,-13.401483852414003
-[18:01:52] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-4416, y=65, z=-192} but found not block entity block Block{minecraft:air} at location
-[18:01:52] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-4416, y=65, z=-192}
-[18:02:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2276, y=69, z=928} class_2338{x=-2273, y=69, z=928}
-[18:03:03] [Server thread/INFO]: RazlyBlaze has made the advancement [Oritech]
-[18:04:04] [pool-10-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=-4485, y=70, z=-299}
-[18:04:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[18:04:06] [Server thread/WARN]: elpatomaster moved too quickly! -7.991362506280893,-0.7287758923075103,6.143686413780358
-[18:04:40] [Server thread/INFO]: elpatomaster has made the advancement [Best Friends Forever]
-[18:06:19] [Server thread/INFO]: elpatomaster has made the advancement [Oritech]
-[18:06:36] [pool-10-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-4501, y=67, z=-491}
-[18:06:37] [Server thread/WARN]: elpatomaster moved too quickly! 0.4889527463910781,-0.24918707874468282,-10.150121758325213
-[18:07:47] [pool-10-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-4837, y=86, z=-235}
-[18:09:02] [pool-10-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=-2085, y=67, z=1323}
-[18:11:58] [Server thread/INFO]: moreracamilo has made the advancement [Sweet Dreams]
-[18:11:59] [pool-10-thread-6/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos class_2338{x=-5093, y=76, z=-827}
-[18:12:01] [Server thread/WARN]: elpatomaster moved too quickly! -10.225837701304044,-0.052203292570013105,0.9319172980764279
-[18:12:09] [pool-10-thread-6/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-4859, y=76, z=-837}
-[18:13:12] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-547, y=-5, z=-25}
-[18:15:58] [Server thread/INFO]: elpatomaster has made the advancement [Suit Up]
-[18:16:34] [pool-10-thread-7/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-4443, y=68, z=-1125}
-[18:17:01] [Server thread/INFO]: elpatomaster has made the advancement [Close Quarters]
-[18:19:01] [pool-10-thread-8/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-2709, y=74, z=2181}
-[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.064955465066305,0.0,0.9079585756663846
-[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.166961548960899,0.0,1.4539413558254637
-[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.2567584434928,0.0,2.00537711841082
-[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.340320728398183,0.0,2.559689977277003
-[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.433299009240727,0.0,3.113473589056639
-[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.669501916415356,0.0,3.585849598473942
-[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 11.198090272118861,0.38349974155426025,4.04484359073092
-[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 11.504964324491084,0.674980899015992,4.299376914098275
-[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 11.802879603638758,0.878087406595256,4.534723563595321
-[18:19:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.49045247079993715
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
-[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.46816569469137903
-[18:22:19] [Server thread/INFO]: elpatomaster lost connection: Disconnected
-[18:22:19] [Server thread/INFO]: elpatomaster left the game
-[18:22:19] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
-[18:24:13] [Server thread/INFO]: elpatomaster[/10.241.83.103:60857] logged in with entity id 59993 at (-4396.689562519967, 13.0, -1138.5529174152532)
-[18:24:13] [Server thread/INFO]: Sending server config values to client
-[18:24:13] [Server thread/INFO]: elpatomaster joined the game
-[18:24:13] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
-[18:24:14] [Server thread/INFO]: Receiving client config
-[18:24:16] [Server thread/INFO]: elpatomaster was slain by Zombie
-[18:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3044, y=151, z=9} class_2338{x=-3044, y=149, z=7}
-[18:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3044, y=151, z=9} class_2338{x=-3044, y=149, z=7}
-[18:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3044, y=151, z=9} class_2338{x=-3044, y=149, z=7}
-[18:25:24] [Server thread/INFO]: [Not Secure] <elpatomaster> xaero-waypoint:gui.xaero-deathpoint:D:-4398:13:-1139:0:false:0:Internal-overworld-waypoints
-[18:27:44] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3628, y=-1, z=124}
-[18:28:28] [Worker-Main-5/WARN]: Tried to access a block entity before it was created. class_2338{x=-3794, y=1, z=-27}
-[18:28:31] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.40277608461360614
-[18:28:31] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.7332157141115658
-[18:28:31] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 1.061642264121474
-[18:28:31] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 1.3882256885024162
-[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.36156903229993986
-[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.5482849517773047
-[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.29605250674285344
-[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.6273117798609746
-[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.794373298368555
-[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 1.062285135971706
-[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 1.4117980869209532
-[18:29:01] [pool-10-thread-9/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-3851, y=72, z=-299}
-[18:30:51] [Server thread/INFO]: elpatomaster has made the advancement [Refined Iron]
-[18:31:09] [Server thread/INFO]: elpatomaster has made the advancement [Let's Get To Work]
-[18:31:58] [Server thread/INFO]: Villager class_1646['Florist'/69390, l='ServerLevel[New World]', x=-1784.85, y=61.05, z=-474.43] died, message: 'Florist drowned'
-[18:32:45] [Server thread/INFO]: moreracamilo has made the advancement [Isn't It Iron Pick]
-[18:33:09] [Server thread/INFO]: moreracamilo was slain by Zombie
-[18:33:09] [Server thread/INFO]: RazlyBlaze has made the advancement [Barrel Booty]
-[18:33:59] [pool-10-thread-10/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-2731, y=76, z=-795}
-[18:34:07] [Server thread/INFO]: RazlyBlaze has made the advancement [Delightful Decade]
-[18:37:05] [Server thread/INFO]: moreracamilo has made the advancement [Ice Bucket Challenge]
-[18:38:06] [pool-10-thread-11/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-3829, y=67, z=-1115}
-[18:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -10.364713256623872,0.0,-0.7358587672986232
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -10.764077265591368,0.0,-0.7569674192566254
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -11.16346018956483,0.0,-0.7778551328283356
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -11.562860319582796,0.0,-0.7985401712113571
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -11.962276117579677,0.0,-0.8190389712833621
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -12.361706016757125,0.0,-0.8393701568797951
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -12.761148785810747,0.0,-0.8595466586897373
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -13.160603316566721,0.0,-0.8795801144492543
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -13.560068432854223,0.0,-0.8994848287668447
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -13.959543254934033,0.0,-0.9192698450272019
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -14.35898808783395,0.0,-0.9396440104058001
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -14.758299186004479,0.0,-0.9618670945229724
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -15.15735636381396,0.0,-0.9869393295023201
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -15.556034593532786,0.0,-1.0156389659102842
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -15.954212036981517,0.0,-1.0485563552915664
-[18:38:08] [Server thread/WARN]: RazlyBlaze moved too quickly! 7.928811676501482,3.0,-5.666562457384771
-[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -16.351775970162635,0.0,-1.0861209766928823
-[18:40:35] [Server thread/INFO]: elpatomaster was slain by Zombie
-[18:41:04] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to -3025.500000, 145.500000, 72.500000]
-[18:42:17] [Server thread/INFO]: moreracamilo has made the advancement [Let's Get To Work]
-[18:42:26] [Server thread/INFO]: [Not Secure] <RazlyBlaze> CORRE PERRA CORRE
-[18:43:01] [pool-10-thread-12/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-1083, y=72, z=1957}
-[18:43:38] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-4722, y=-13, z=-1395}
-[18:45:33] [Server thread/INFO]: moreracamilo has made the advancement [Suit Up]
-[18:49:33] [pool-10-thread-13/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-1397, y=73, z=715}
-[18:53:14] [Server thread/INFO]: moreracamilo was slain by Enderman
-[18:53:54] [Server thread/INFO]: RazlyBlaze has made the advancement [Cover Me with Diamonds]
-[18:54:58] [Server thread/INFO]: elpatomaster was slain by Zombie
-[18:59:05] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:03:05] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:04:54] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:05:33] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:06:57] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:07:28] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:08:23] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:08:45] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:09:03] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:09:33] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:10:46] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:12:19] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:12:56] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:13:21] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:13:48] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:14:06] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:14:08] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:14:18] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:14:21] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:14:48] [Server thread/INFO]: moreracamilo has made the advancement [Barrel Booty]
-[19:14:48] [Server thread/INFO]: moreracamilo has made the advancement [Delightful Decade]
-[19:14:52] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:14:57] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:15:16] [Server thread/INFO]: moreracamilo has made the advancement [Diamonds!]
-[19:16:10] [Server thread/INFO]: moreracamilo has made the advancement [Endgame]
-[19:16:26] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:16:31] [Server thread/INFO]: elpatomaster has made the advancement [Half-Century]
-[19:16:51] [Server thread/INFO]: moreracamilo was shot by Skeleton
-[19:17:19] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:17:43] [Server thread/INFO]: moreracamilo was shot by Skeleton
-[19:17:57] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:18:11] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:18:23] [Server thread/INFO]: moreracamilo was shot by Skeleton
-[19:18:46] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:19:05] [Server thread/INFO]: moreracamilo has made the advancement [Cover Me with Diamonds]
-[19:19:06] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:21:24] [Server thread/INFO]: elpatomaster has made the advancement [Cover Me with Diamonds]
-[19:21:52] [Server thread/INFO]: RazlyBlaze has made the advancement [Suit Up]
-[19:22:01] [Server thread/INFO]: RazlyBlaze has made the advancement [Close Quarters]
-[19:22:05] [Server thread/INFO]: moreracamilo has made the advancement [Close Quarters]
-[19:27:18] [Server thread/INFO]: moreracamilo has made the advancement [Half-Century]
-[19:30:40] [Server thread/INFO]: elpatomaster has made the advancement [Heart of the Machine]
-[19:34:11] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:34:25] [Server thread/INFO]: RazlyBlaze was slain by Zombie
-[19:35:35] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:35:46] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:36:02] [Server thread/INFO]: moreracamilo was slain by Zombie
-[19:37:59] [Server thread/INFO]: elpatomaster has made the advancement [Chest Slayer]
-[19:38:41] [Server thread/INFO]: elpatomaster has completed the challenge [Centennial]
-[19:43:34] [Server thread/INFO]: RazlyBlaze has made the advancement [Half-Century]
-[19:46:58] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:47:58] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:48:14] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:48:39] [Server thread/INFO]: RazlyBlaze was blown up by Creeper
-[19:48:41] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:49:12] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:51:38] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:53:13] [Server thread/INFO]: elpatomaster was slain by Zombie
-[19:59:20] [Server thread/INFO]: elpatomaster was shot by Skeleton
-[20:00:20] [Server thread/INFO]: elpatomaster was slain by Zombie
-[20:01:38] [Server thread/INFO]: elpatomaster was slain by Zombie
-[20:06:03] [Server thread/INFO]: elpatomaster was slain by Zombie
-[20:07:08] [Server thread/INFO]: elpatomaster was slain by Zombie
-[20:09:31] [Server thread/INFO]: elpatomaster was slain by Zombie
-[20:10:37] [Server thread/INFO]: RazlyBlaze has made the advancement [Tech Reborn]
-[20:22:19] [Server thread/INFO]: moreracamilo lost connection: Disconnected
-[20:22:19] [Server thread/INFO]: moreracamilo left the game
-[20:22:19] [Server thread/INFO]: Updating all forceload tickets for edcb9d66-2132-3b8b-b620-c82dd269fbc2
-[20:23:21] [Server thread/INFO]: elpatomaster lost connection: Disconnected
-[20:23:21] [Server thread/INFO]: elpatomaster left the game
-[20:23:21] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
-[20:28:17] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
-[20:28:17] [Server thread/INFO]: RazlyBlaze left the game
-[20:28:17] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
-[22:26:42] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:56574] logged in with entity id 151222 at (-3892.300000011921, 64.0, -591.250625512262)
-[22:26:42] [Server thread/INFO]: Sending server config values to client
-[22:26:42] [Server thread/INFO]: RazlyBlaze joined the game
-[22:26:42] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
-[22:26:43] [Server thread/INFO]: Receiving client config
-[22:32:47] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
-[22:32:47] [Server thread/INFO]: RazlyBlaze left the game
-[22:32:47] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
-[22:44:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@5d33a417[id=bfdea385-be4b-3f3d-9cab-34028b230dcb,name=RazlyBlaze,properties={}] lost connection: Disconnected
-[22:44:40] [Server thread/INFO]: Stopping the server
-[22:44:40] [Server thread/INFO]: Stopping server
-[22:44:40] [Server thread/INFO]: Saving players
-[22:44:40] [Server thread/INFO]: Saving worlds
-[22:44:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[22:44:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[22:44:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[22:44:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:44:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:44:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:44:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:44:41] [Server thread/INFO]: Stopping IO worker...
-[22:44:41] [Server thread/INFO]: Stopped IO worker!
+	- yigd 2.4.14
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- libgui 11.1.0+1.21
+	        |-- jankson 8.0.0+j1.2.3
+	        |    \-- blue_endless_jankson 1.2.3
+	        \-- libninepatch 1.2.0
+	- yungsapi 1.21.1-Fabric-5.1.4
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+[22:56:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/IMPORTANT-PROJECT/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:56:10] [main/INFO]: Compatibility level set to JAVA_21
+[22:56:10] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:56:11] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:56:11] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:56:11] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[22:56:11] [main/WARN]: Mod 'supplementaries' attempted to override option 'mixins.block.moving_block_shapes', which doesn't exist, ignoring
+[22:56:11] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[22:56:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[22:56:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[22:56:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[22:56:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[22:56:11] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[22:56:11] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 2 override(s) found
+[22:56:11] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.21.1: 57 options available, 0 override(s) found
+[22:56:11] [main/INFO]: Applying Nashorn fix
+[22:56:11] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:56:11] [main/WARN]: Reference map 'trashcans.mixins.refmap.json' for trashcans.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:56:11] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:56:11] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[22:56:11] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
+[22:56:12] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.PistonMovingBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[22:56:12] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[22:56:12] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[22:56:12] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[22:56:12] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[22:56:12] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[22:56:12] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[22:56:12] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[22:56:12] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
+[22:56:12] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[22:56:12] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[22:56:12] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[22:56:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.3).
+[22:56:16] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[22:56:16] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[22:56:20] [main/INFO]: Vanilla bootstrap took 6203 milliseconds
+[22:56:20] [main/INFO]: fabric loader environment detected
+[22:56:20] [main/INFO]: Loaded config for: cupboard.json
+[22:56:20] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
+[22:56:20] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
+[22:56:20] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
+[22:56:20] [main/ERROR]: No data fixer registered for artifacts:mimic
+[22:56:21] [main/INFO]: Reflections took 45 ms to scan 1 urls, producing 1 keys and 3 values
+[22:56:21] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
+[22:56:21] [main/INFO]: Loaded C2B lib.
+[22:56:21] [main/INFO]: ExpandAbility here, who dis?
+[22:56:21] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[22:56:21] [main/INFO]: Registering C2S receiver with id ftblibrary:sync_config_to_server_packet
+[22:56:21] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed_packet
+[22:56:21] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed_packet
+[22:56:21] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server_packet
+[22:56:21] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[22:56:21] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[22:56:21] [main/ERROR]: No data fixer registered for anomaly
+[22:56:21] [main/ERROR]: No data fixer registered for immersive_aircraft:gyrodyne
+[22:56:21] [main/ERROR]: No data fixer registered for immersive_aircraft:biplane
+[22:56:21] [main/ERROR]: No data fixer registered for immersive_aircraft:airship
+[22:56:21] [main/ERROR]: No data fixer registered for immersive_aircraft:cargo_airship
+[22:56:21] [main/ERROR]: No data fixer registered for immersive_aircraft:warship
+[22:56:21] [main/ERROR]: No data fixer registered for immersive_aircraft:quadrocopter
+[22:56:21] [main/ERROR]: No data fixer registered for immersive_aircraft:bullet
+[22:56:21] [main/ERROR]: No data fixer registered for immersive_aircraft:tiny_tnt
+[22:56:21] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[22:56:21] [main/INFO]: ---------------------------
+[22:56:21] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[22:56:21] [main/INFO]:  
+[22:56:21] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[22:56:21] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[22:56:21] [main/INFO]:  
+[22:56:21] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[22:56:21] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[22:56:21] [main/INFO]:  
+[22:56:21] [main/INFO]: Json-smart Copyright © netplex.
+[22:56:21] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[22:56:21] [main/INFO]:  
+[22:56:21] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[22:56:21] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[22:56:21] [main/INFO]: ---------------------------
+[22:56:21] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[22:56:21] [main/INFO]: Running Oritech registrations...
+[22:56:22] [main/INFO]: Oritech registrations complete
+[22:56:22] [main/INFO]: Begin Oritech initialization
+[22:56:22] [main/INFO]: Oritech initialization complete
+[22:56:22] [main/INFO]: glisco: I like this approach, cause it's stateless. And stateless approaches are always good since state management is pain - BasiqueEvangelist: I like french bread
+[22:56:22] [main/INFO]: Constructing common components for puzzleslib:main
+[22:56:22] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
+[22:56:22] [main/INFO]: [REI] Registered plugin provider AlloyForgeryCommonPlugin [alloy_forgery] for REIPlugin
+[22:56:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[22:56:22] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[22:56:22] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[22:56:22] [main/INFO]: [REI] Registered plugin provider REICompat [sophisticatedbackpacks] for REIPlugin
+[22:56:22] [main/INFO]: [REI] Registered plugin provider AlloyForgeryCommonPlugin [alloy_forgery] for REIServerPlugin
+[22:56:22] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[22:56:22] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[22:56:22] [main/INFO]: [REI] Registered plugin provider REICompat [sophisticatedbackpacks] for REIServerPlugin
+[22:56:22] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[22:56:22] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[22:56:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[22:56:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[22:56:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[22:56:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[22:56:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[22:56:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[22:56:22] [main/INFO]: [ServerCore] Loaded V1.5.5+1.21.1!
+[22:56:22] [main/ERROR]: No data fixer registered for 
+[22:56:23] [main/INFO]: Loaded config supplementaries-common.json
+[22:56:24] [main/INFO]: TechReborn setup done!
+[22:56:24] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:56:24] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[22:56:24] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:56:24] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:56:24] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:56:24] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:56:24] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:56:24] [main/INFO]: Tom's Storage Setup starting
+[22:56:24] [main/INFO]: Constructing common components for visualworkbench:main
+[22:56:24] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[22:56:24] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[22:56:24] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[22:56:24] [main/INFO]: Initialized block sets in 14ms
+[22:56:24] [main/ERROR]: No data fixer registered for dispenser_minecart
+[22:56:24] [main/ERROR]: No data fixer registered for falling_urn
+[22:56:24] [main/ERROR]: No data fixer registered for falling_ash
+[22:56:24] [main/ERROR]: No data fixer registered for falling_sack
+[22:56:24] [main/ERROR]: No data fixer registered for brick_projectile
+[22:56:24] [main/ERROR]: No data fixer registered for slimeball_projectile
+[22:56:24] [main/ERROR]: No data fixer registered for bomb
+[22:56:24] [main/ERROR]: No data fixer registered for cannonball
+[22:56:24] [main/ERROR]: No data fixer registered for rope_arrow
+[22:56:24] [main/ERROR]: No data fixer registered for slingshot_projectile
+[22:56:24] [main/INFO]: Loaded config moonlight-common.json
+[22:56:24] [main/INFO]: Initialized color sets in 38ms
+[22:56:25] [main/INFO]: Finished mod setup in: [0, 1, 0, 3, 15, 3, 0] ms
+[22:56:25] [main/INFO]: Loading Open Parties and Claims!
+[22:56:25] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22:56:25] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:56:25] [main/INFO]: Found new data pack bettercombat, loading it automatically
+[22:56:25] [main/INFO]: Found new data pack betterdungeons, loading it automatically
+[22:56:25] [main/INFO]: Found new data pack explorify, loading it automatically
+[22:56:25] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
+[22:56:25] [main/INFO]: Found new data pack yigd, loading it automatically
+[22:56:25] [main/INFO]: Found new data pack yungsapi, loading it automatically
+[22:56:25] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 46 ms
+[22:56:28] [main/INFO]: Loaded 5467 recipes
+[22:56:28] [main/ERROR]: Parsing error loading custom advancement supplementaries:adventure/way_sign: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: supplementaries:way_sing_oak
+[22:56:28] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, minecraft:wander_add_map]
+[22:56:28] [main/INFO]: Loaded 4691 advancements
+[22:56:28] [main/INFO]: Applied 7 data villager trades
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/ocean_ruin_cold - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_snowy_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_toolsmith - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/pillager_outpost - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_tannery - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/ancient_city_ice_box - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/entities/cow - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/ancient_city - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_plains_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/ruined_portal - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/underwater_ruin_big - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_weaponsmith - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/igloo_chest - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/desert_pyramid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_temple - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_desert_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/woodland_mansion - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/buried_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/spawn_bonus_chest - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/desert_pyramid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/end_city_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_taiga_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/nether_bridge - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/desert_well - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/shipwreck_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/jungle_temple - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/stronghold_corridor - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/abandoned_mineshaft - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_butcher - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_savanna_house - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/ocean_ruin_warm - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/village/village_armorer - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/archaeology/trail_ruins_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/entities/mooshroom - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/WARN]: Could not decode GlobalLootModifier with json id artifacts:inject/chests/simple_dungeon - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: artifacts:roll_loot_table
+[22:56:28] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[22:56:28] [main/INFO]: [REI] REIPlugin starting main-reload for START.
+[22:56:28] [main/INFO]: [REI] Plugins (5):
+[22:56:28] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[22:56:28] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[22:56:28] [main/INFO]: [REI]  - (0.00) REICompat of REICompat [sophisticatedbackpacks]
+[22:56:28] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:56:28] [main/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
+[22:56:28] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[22:56:28] [main/INFO]: [REI] ########################################
+[22:56:28] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[22:56:28] [main/INFO]: [REI] Plugins (5):
+[22:56:28] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[22:56:28] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[22:56:28] [main/INFO]: [REI]  - (0.00) REICompat of REICompat [sophisticatedbackpacks]
+[22:56:28] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:56:28] [main/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
+[22:56:28] [main/INFO]: [REI] ########################################
+[22:56:28] [main/INFO]: [REI] REIPlugin finished post-reload for START in 2.904 ms, totaling 35.79 ms.
+[22:56:28] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 1.331 ms, totaling 8.265 ms.
+[22:56:28] [main/INFO]: [REI] ========================================
+[22:56:28] [main/INFO]: [REI] REIPlugin starting main-reload for END.
+[22:56:28] [main/INFO]: [REI] Plugins (5):
+[22:56:28] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[22:56:28] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[22:56:28] [main/INFO]: [REI]  - (0.00) REICompat of REICompat [sophisticatedbackpacks]
+[22:56:28] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:56:28] [main/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
+[22:56:28] [main/INFO]: [REI] ========================================
+[22:56:28] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[22:56:28] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[22:56:28] [main/INFO]: [REI] Plugins (5):
+[22:56:28] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[22:56:28] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[22:56:28] [main/INFO]: [REI]  - (0.00) REICompat of REICompat [sophisticatedbackpacks]
+[22:56:28] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:56:28] [main/INFO]: [REI]  - (0.00) AlloyForgeryCommonPlugin of AlloyForgeryCommonPlugin [alloy_forgery]
+[22:56:28] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[22:56:28] [main/INFO]: [REI] REIPlugin finished post-reload for END in 1.467 ms, totaling 33.95 ms.
+[22:56:28] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 911.0 μs, totaling 11.47 ms.
+[22:56:28] [main/INFO]: Loaded 27 flute songs
+[22:56:28] [main/INFO]: Reloading grave shape (server)
+[22:56:28] [main/INFO]: Grave model and shape reload successful (server)
+[22:56:28] [main/INFO]: Reloading YIGD graveyard data (server)
+[22:56:28] [main/INFO]: Graveyard data successfully reloaded (server)
+[22:56:28] [main/INFO]: Reloading YIGD grave area overrides (server)
+[22:56:28] [main/INFO]: Grave area overrides successfully reloaded (server)
+[22:56:28] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: runes:runes
+[22:56:28] [main/INFO]: Registering custom dispenser behaviors
+[22:56:29] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22:56:29] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22:56:30] [main/INFO]: Applied 1736 biome modifications to 134 of 134 new biomes in 708.3 ms
+[22:56:30] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2951 bytes (in 1 string chunks with the size of 10000)
+[22:56:30] [Server thread/INFO]: Starting background profiler...
+[22:56:30] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 1 string chunks with the size of 10000)
+[22:56:30] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:56:30] [Server thread/INFO]: Loading properties
+[22:56:30] [Server thread/INFO]: Default game type: SURVIVAL
+[22:56:30] [Server thread/INFO]: Generating keypair
+[22:56:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:56:30] [Server thread/INFO]: Using epoll channel type
+[22:56:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:56:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:56:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:56:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:56:30] [Server thread/INFO]: Preparing level "world"
+[22:56:30] [Server thread/INFO]: Initializing Open Parties and Claims for the server...
+[22:56:30] [Server thread/INFO]: Loading server info!
+[22:56:31] [Server thread/INFO]: Loading player configs...
+[22:56:31] [Server thread/INFO]: Loaded player configs!
+[22:56:31] [Server thread/INFO]: Loading parties...
+[22:56:31] [Server thread/INFO]: Loaded parties!
+[22:56:31] [Server thread/INFO]: Fixing party inconsistencies...
+[22:56:31] [Server thread/INFO]: Registered party system for OPAC: default
+[22:56:31] [Server thread/INFO]: Registered permission system for OPAC: permission_api
+[22:56:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:56:35] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[22:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:56:35] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[22:56:35] [Server thread/INFO]: Time elapsed: 641 ms
+[22:56:35] [Server thread/INFO]: Done (4.855s)! For help, type "help"
+[22:56:35] [Server thread/WARN]: Dedicated server took 27.418 seconds to load
+[22:56:35] [Server thread/INFO]: Loaded config for: smoothchunk.json
+[22:56:40] [Server thread/INFO]: Loading claims...
+[22:56:40] [Server thread/INFO]: Loaded claims in 2ms
+[22:56:40] [Server thread/WARN]: The configured permission system "prometheus" isn't registered!
+[22:56:40] [Server thread/INFO]: Configured OPAC to use the following permission system: permission_api
+[22:56:40] [Server thread/WARN]: The configured primary party system "argonauts_guilds" isn't registered!
+[22:56:40] [Server thread/INFO]: Configured OPAC to use the following party system as primary: default
+[22:56:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4189ms or 83 ticks behind
+[22:56:40] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22:57:28] [Server thread/INFO]: elpatomaster[/10.241.83.103:62370] logged in with entity id 17 at (-3059.017085562019, 150.0, 33.30000001192093)
+[22:57:28] [Server thread/INFO]: Sending server config values to client
+[22:57:28] [Server thread/INFO]: elpatomaster joined the game
+[22:57:29] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[22:57:29] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[22:57:29] [Server thread/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[22:57:29] [Server thread/INFO]: Receiving client config
+[22:57:55] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:57047] logged in with entity id 552 at (-2958.2802994014883, 110.0, -131.9488720197428)
+[22:57:55] [Server thread/INFO]: Sending server config values to client
+[22:57:55] [Server thread/INFO]: RazlyBlaze joined the game
+[22:57:55] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[22:57:56] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[22:57:56] [Server thread/INFO]: Receiving client config
+[22:59:08] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[22:59:08] [Server thread/INFO]: RazlyBlaze left the game
+[22:59:08] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[23:22:04] [Server thread/WARN]: elpatomaster was kicked for floating a vehicle too long!
+[23:22:04] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[23:22:04] [Server thread/INFO]: elpatomaster left the game
+[23:22:04] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[23:22:05] [Server thread/WARN]: handleDisconnection() called twice
+[23:22:13] [Server thread/INFO]: Stopping the server
+[23:22:13] [Server thread/INFO]: Stopping server
+[23:22:13] [Server thread/INFO]: Saving players
+[23:22:13] [Server thread/INFO]: Saving worlds
+[23:22:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[23:22:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[23:22:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[23:22:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:22:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:22:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:22:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:22:13] [Server thread/INFO]: Stopping IO worker...
+[23:22:13] [Server thread/INFO]: Stopped IO worker!
