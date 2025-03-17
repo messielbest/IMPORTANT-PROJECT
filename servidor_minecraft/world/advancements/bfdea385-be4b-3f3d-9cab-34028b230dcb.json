@@ -29,13 +29,20 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "jade_cliffs": "2025-03-17 18:25:01 +0000",
       "lavender_field": "2025-03-17 18:13:19 +0000",
+      "shrubland": "2025-03-17 18:23:14 +0000",
       "maple_woods": "2025-03-14 21:25:19 +0000",
+      "rocky_shrubland": "2025-03-17 18:44:02 +0000",
+      "redwood_forest": "2025-03-17 18:32:38 +0000",
       "fir_clearing": "2025-03-14 21:00:46 +0000",
       "pumpkin_patch": "2025-03-14 21:09:59 +0000",
+      "prairie": "2025-03-17 18:36:22 +0000",
       "aspen_glade": "2025-03-14 21:07:05 +0000",
+      "glowing_grotto": "2025-03-17 18:25:07 +0000",
       "field": "2025-03-14 21:12:55 +0000",
       "orchard": "2025-03-17 18:10:31 +0000",
+      "overgrown_greens": "2025-03-17 18:33:01 +0000",
       "seasonal_forest": "2025-03-17 18:08:12 +0000",
       "highland": "2025-03-17 17:32:03 +0000",
       "jacaranda_glade": "2025-03-17 18:12:26 +0000",
@@ -221,6 +228,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-17 18:39:17 +0000",
       "bread": "2025-03-14 21:12:54 +0000",
       "cooked_mutton": "2025-03-14 21:07:37 +0000",
       "cooked_beef": "2025-03-14 21:06:33 +0000",
@@ -290,16 +298,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2025-03-14 21:18:46 +0000",
       "minecraft:cold_ocean": "2025-03-14 21:11:01 +0000",
       "minecraft:beach": "2025-03-14 21:19:42 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-14 21:21:13 +0000",
+      "minecraft:dark_forest": "2025-03-17 18:30:21 +0000",
       "minecraft:forest": "2025-03-14 21:16:20 +0000",
       "minecraft:taiga": "2025-03-14 21:19:49 +0000",
       "minecraft:river": "2025-03-14 21:10:59 +0000",
-      "minecraft:meadow": "2025-03-14 21:23:18 +0000",
       "minecraft:stony_shore": "2025-03-14 21:07:06 +0000",
       "minecraft:dripstone_caves": "2025-03-14 21:32:29 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-14 21:18:46 +0000",
+      "minecraft:grove": "2025-03-17 18:30:25 +0000",
+      "minecraft:meadow": "2025-03-14 21:23:18 +0000",
+      "minecraft:birch_forest": "2025-03-17 18:23:13 +0000",
       "minecraft:plains": "2025-03-14 21:39:03 +0000"
     },
     "done": false
@@ -1278,6 +1289,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-03-17 18:33:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
     "criteria": {
       "has_bone": "2025-03-17 17:34:45 +0000"
@@ -1320,6 +1337,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-17 17:33:21 +0000"
@@ -1341,6 +1370,12 @@
   "techreborn:recipes/crafting_table/cable/insulated_gold_cable": {
     "criteria": {
       "has_gold": "2025-03-17 17:56:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/ruby_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_ruby_helmet": "2025-03-17 18:27:10 +0000"
     },
     "done": true
   },
@@ -1410,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-17 17:58:37 +0000"
@@ -1425,6 +1466,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-17 17:48:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },
@@ -1518,6 +1565,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/peridot_dust_from_boots_with_water": {
+    "criteria": {
+      "has_peridot_boots": "2025-03-17 18:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 17:56:19 +0000"
@@ -1536,9 +1589,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
   "wormhole:recipes/misc/coal_generator": {
     "criteria": {
       "recipe_condition": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-03-17 18:32:35 +0000"
     },
     "done": true
   },
@@ -1576,6 +1641,12 @@
   "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
     "criteria": {
       "has_sapling": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },
@@ -1618,6 +1689,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-03-17 17:48:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-17 18:44:43 +0000"
     },
     "done": true
   },
@@ -1675,6 +1752,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
     "criteria": {
       "has_furnace": "2025-03-17 17:23:48 +0000"
@@ -1707,6 +1790,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-03-17 18:33:09 +0000",
       "opened_chest": "2025-03-17 17:40:08 +0000"
     },
     "done": false
@@ -1796,9 +1880,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-17 18:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
     },
     "done": true
   },
@@ -1814,15 +1910,39 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-17 18:33:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_pickaxe": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-17 17:28:34 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt_alt": {
     "criteria": {
       "has_aluminum_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_axe": {
+    "criteria": {
+      "has_golden_axe": "2025-03-17 18:29:12 +0000"
     },
     "done": true
   },
@@ -1948,6 +2068,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
     "criteria": {
       "has_barrel": "2025-03-17 17:22:44 +0000"
@@ -1992,6 +2124,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/storage/storage_buffer": {
     "criteria": {
       "has_wood_plate": "2025-03-17 17:22:44 +0000"
@@ -2004,15 +2142,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_gems_ruby": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
     "criteria": {
       "has_lead_plate": "2025-03-17 17:22:44 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-03-17 18:29:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_gems_sapphire": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-03-17 18:39:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/assembling_machine": {
     "criteria": {
       "has_electrum_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_gems_red_garnet": "2025-03-17 18:24:11 +0000"
     },
     "done": true
   },
@@ -2089,8 +2257,15 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:root": {
     "criteria": {
+      "crit_2": "2025-03-17 18:21:12 +0000",
       "crit_1": "2025-03-17 18:15:22 +0000"
     },
     "done": false
@@ -2098,6 +2273,12 @@
   "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
     "criteria": {
       "has_refined_iron_ingot": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },
@@ -2128,6 +2309,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-03-17 17:58:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/peridot_dust": {
+    "criteria": {
+      "has_tag_c_gems_peridot": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },
@@ -2162,6 +2349,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-03-17 18:35:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/treetap": {
     "criteria": {
       "has_planks": "2025-03-17 17:22:44 +0000"
@@ -2183,6 +2376,24 @@
   "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
     "criteria": {
       "has_the_recipe": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-17 18:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
     },
     "done": true
   },
@@ -2216,9 +2427,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/ruby_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_ruby_helmet": "2025-03-17 18:27:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/obsidian_plate_from_block": {
+    "criteria": {
+      "has_obsidian": "2025-03-17 18:29:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/smelting/refined_iron_ingot_from_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/peridot_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_peridot_boots": "2025-03-17 18:27:53 +0000"
     },
     "done": true
   },
@@ -2282,6 +2523,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2025-03-17 18:24:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
     "criteria": {
       "has_refined_iron": "2025-03-17 17:22:44 +0000"
@@ -2297,6 +2544,24 @@
   "wormhole:recipes/misc/portal_frame": {
     "criteria": {
       "recipe_condition": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-03-17 18:34:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },
@@ -2354,6 +2619,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-17 18:44:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_tungstensteel_storage_block_alt": {
     "criteria": {
       "has_tungstensteel_ingot": "2025-03-17 17:22:44 +0000",
@@ -2373,6 +2644,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-17 18:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
+    },
+    "done": true
+  },
   "alloy_forgery:recipes/alloy_forgery/compat/forge_platinum_ingots_from_raw_material": {
     "criteria": {
       "has_platinum_ingots_from_raw_material": "2025-03-17 17:48:10 +0000"
@@ -2382,6 +2665,18 @@
   "techreborn:recipes/crafting_table/cell": {
     "criteria": {
       "has_tin_ingot": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },
@@ -2403,6 +2698,12 @@
     },
     "done": true
   },
+  "oritech:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-17 18:35:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_materials/tin": {
     "criteria": {
       "has_tag_c_raw_materials_tin": "2025-03-17 18:15:22 +0000"
@@ -2418,6 +2719,12 @@
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
     "criteria": {
       "has_lead_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
     },
     "done": true
   },
@@ -2505,9 +2812,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-17 18:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-17 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
     },
     "done": true
   },
@@ -2517,9 +2836,33 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2025-03-17 18:34:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-17 18:29:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-03-17 17:58:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },
@@ -2532,6 +2875,24 @@
   "techreborn:recipes/assembling_machine/white_bed_from_wool": {
     "criteria": {
       "has_white_wool": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_spade": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },
@@ -2559,9 +2920,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-17 18:24:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/sapphire_dust_from_chestplate_with_water": {
+    "criteria": {
+      "has_sapphire_chestplate": "2025-03-17 18:26:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/diesel_generator_alt": {
     "criteria": {
       "has_aluminum_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/sapphire_dust_from_chestplate_with_mercury": {
+    "criteria": {
+      "has_sapphire_chestplate": "2025-03-17 18:26:55 +0000"
     },
     "done": true
   },
@@ -2589,15 +2968,57 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bed": {
+    "criteria": {
+      "has_tag_minecraft_beds": "2025-03-17 18:45:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_boots": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_helmet": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:48:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-03-17 18:21:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-03-17 17:47:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_storage_block": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_chestplate": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },
@@ -2665,6 +3086,12 @@
     "criteria": {
       "has_iridium_plate": "2025-03-17 17:22:44 +0000",
       "has_tungstensteel_block": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_hoe": {
+    "criteria": {
+      "has_peridot_gem": "2025-03-17 18:21:12 +0000"
     },
     "done": true
   },

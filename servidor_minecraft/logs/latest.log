@@ -512,3 +512,87 @@
 [18:15:58] [Server thread/INFO]: elpatomaster has made the advancement [Suit Up]
 [18:16:34] [pool-10-thread-7/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-4443, y=68, z=-1125}
 [18:17:01] [Server thread/INFO]: elpatomaster has made the advancement [Close Quarters]
+[18:19:01] [pool-10-thread-8/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-2709, y=74, z=2181}
+[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.064955465066305,0.0,0.9079585756663846
+[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.166961548960899,0.0,1.4539413558254637
+[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.2567584434928,0.0,2.00537711841082
+[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.340320728398183,0.0,2.559689977277003
+[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.433299009240727,0.0,3.113473589056639
+[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 10.669501916415356,0.0,3.585849598473942
+[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 11.198090272118861,0.38349974155426025,4.04484359073092
+[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 11.504964324491084,0.674980899015992,4.299376914098275
+[18:19:03] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved too quickly! 11.802879603638758,0.878087406595256,4.534723563595321
+[18:19:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.49045247079993715
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.761651315522613
+[18:19:04] [Server thread/WARN]: Horse (vehicle of elpatomaster) moved wrongly! 0.46816569469137903
+[18:22:19] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[18:22:19] [Server thread/INFO]: elpatomaster left the game
+[18:22:19] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[18:24:13] [Server thread/INFO]: elpatomaster[/10.241.83.103:60857] logged in with entity id 59993 at (-4396.689562519967, 13.0, -1138.5529174152532)
+[18:24:13] [Server thread/INFO]: Sending server config values to client
+[18:24:13] [Server thread/INFO]: elpatomaster joined the game
+[18:24:13] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[18:24:14] [Server thread/INFO]: Receiving client config
+[18:24:16] [Server thread/INFO]: elpatomaster was slain by Zombie
+[18:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3044, y=151, z=9} class_2338{x=-3044, y=149, z=7}
+[18:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3044, y=151, z=9} class_2338{x=-3044, y=149, z=7}
+[18:24:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3044, y=151, z=9} class_2338{x=-3044, y=149, z=7}
+[18:25:24] [Server thread/INFO]: [Not Secure] <elpatomaster> xaero-waypoint:gui.xaero-deathpoint:D:-4398:13:-1139:0:false:0:Internal-overworld-waypoints
+[18:27:44] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3628, y=-1, z=124}
+[18:28:28] [Worker-Main-5/WARN]: Tried to access a block entity before it was created. class_2338{x=-3794, y=1, z=-27}
+[18:28:31] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.40277608461360614
+[18:28:31] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.7332157141115658
+[18:28:31] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 1.061642264121474
+[18:28:31] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 1.3882256885024162
+[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.36156903229993986
+[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.5482849517773047
+[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.29605250674285344
+[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.6273117798609746
+[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 0.794373298368555
+[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 1.062285135971706
+[18:28:32] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved wrongly! 1.4117980869209532
+[18:29:01] [pool-10-thread-9/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-3851, y=72, z=-299}
+[18:30:51] [Server thread/INFO]: elpatomaster has made the advancement [Refined Iron]
+[18:31:09] [Server thread/INFO]: elpatomaster has made the advancement [Let's Get To Work]
+[18:31:58] [Server thread/INFO]: Villager class_1646['Florist'/69390, l='ServerLevel[New World]', x=-1784.85, y=61.05, z=-474.43] died, message: 'Florist drowned'
+[18:32:45] [Server thread/INFO]: moreracamilo has made the advancement [Isn't It Iron Pick]
+[18:33:09] [Server thread/INFO]: moreracamilo was slain by Zombie
+[18:33:09] [Server thread/INFO]: RazlyBlaze has made the advancement [Barrel Booty]
+[18:33:59] [pool-10-thread-10/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-2731, y=76, z=-795}
+[18:34:07] [Server thread/INFO]: RazlyBlaze has made the advancement [Delightful Decade]
+[18:37:05] [Server thread/INFO]: moreracamilo has made the advancement [Ice Bucket Challenge]
+[18:38:06] [pool-10-thread-11/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-3829, y=67, z=-1115}
+[18:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -10.364713256623872,0.0,-0.7358587672986232
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -10.764077265591368,0.0,-0.7569674192566254
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -11.16346018956483,0.0,-0.7778551328283356
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -11.562860319582796,0.0,-0.7985401712113571
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -11.962276117579677,0.0,-0.8190389712833621
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -12.361706016757125,0.0,-0.8393701568797951
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -12.761148785810747,0.0,-0.8595466586897373
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -13.160603316566721,0.0,-0.8795801144492543
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -13.560068432854223,0.0,-0.8994848287668447
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -13.959543254934033,0.0,-0.9192698450272019
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -14.35898808783395,0.0,-0.9396440104058001
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -14.758299186004479,0.0,-0.9618670945229724
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -15.15735636381396,0.0,-0.9869393295023201
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -15.556034593532786,0.0,-1.0156389659102842
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -15.954212036981517,0.0,-1.0485563552915664
+[18:38:08] [Server thread/WARN]: RazlyBlaze moved too quickly! 7.928811676501482,3.0,-5.666562457384771
+[18:38:08] [Server thread/WARN]: Fir Boat (vehicle of elpatomaster) moved too quickly! -16.351775970162635,0.0,-1.0861209766928823
+[18:40:35] [Server thread/INFO]: elpatomaster was slain by Zombie
+[18:41:04] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to -3025.500000, 145.500000, 72.500000]
+[18:42:17] [Server thread/INFO]: moreracamilo has made the advancement [Let's Get To Work]
+[18:42:26] [Server thread/INFO]: [Not Secure] <RazlyBlaze> CORRE PERRA CORRE
+[18:43:01] [pool-10-thread-12/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-1083, y=72, z=1957}
+[18:43:38] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-4722, y=-13, z=-1395}
+[18:45:33] [Server thread/INFO]: moreracamilo has made the advancement [Suit Up]
