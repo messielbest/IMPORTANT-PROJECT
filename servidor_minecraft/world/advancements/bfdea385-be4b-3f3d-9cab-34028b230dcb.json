@@ -757,7 +757,8 @@
       "minecraft:cave_spider": "2025-03-17 17:33:48 +0000",
       "minecraft:skeleton": "2025-03-14 21:27:11 +0000",
       "minecraft:spider": "2025-03-17 19:23:02 +0000",
-      "minecraft:zombie": "2025-03-17 17:32:31 +0000"
+      "minecraft:zombie": "2025-03-17 17:32:31 +0000",
+      "minecraft:creeper": "2025-03-17 19:31:06 +0000"
     },
     "done": false
   },
@@ -1307,6 +1308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-17 19:32:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
     "criteria": {
       "has_bone": "2025-03-17 17:34:45 +0000"
@@ -1373,9 +1380,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-03-17 19:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 17:56:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-03-17 19:31:14 +0000"
     },
     "done": true
   },
@@ -1493,6 +1512,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-17 19:28:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
     "criteria": {
       "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
@@ -1541,6 +1566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-03-17 19:32:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/gold_plate_from_block": {
     "criteria": {
       "has_gold_block": "2025-03-17 17:41:01 +0000"
@@ -1586,6 +1617,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
     "criteria": {
       "has_raw_tin": "2025-03-17 18:15:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-03-17 19:31:26 +0000"
     },
     "done": true
   },
@@ -1770,6 +1807,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lightning_rod": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-03-17 19:31:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-03-17 18:44:43 +0000"
@@ -1800,6 +1843,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-03-17 19:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-17 17:58:37 +0000"
@@ -1824,6 +1873,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/tungsten_storage_block": {
+    "criteria": {
+      "has_tungsten_ingot": "2025-03-17 19:31:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-17 17:32:09 +0000"
@@ -1833,6 +1888,12 @@
   "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
     "criteria": {
       "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-17 19:32:36 +0000"
     },
     "done": true
   },
@@ -2066,6 +2127,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-03-17 19:31:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
     "criteria": {
       "has_sapphire_gem": "2025-03-17 18:21:12 +0000"
@@ -2206,6 +2273,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-03-17 19:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-17 17:48:06 +0000"
@@ -2221,6 +2294,12 @@
   "techreborn:recipes/extractor/rubber_from_slime_ball": {
     "criteria": {
       "has_slime_ball": "2025-03-17 19:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-17 19:31:14 +0000"
     },
     "done": true
   },
@@ -2407,6 +2486,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_iron_bars": "2025-03-17 19:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 17:48:18 +0000"
@@ -2546,6 +2631,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-03-17 19:31:24 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-03-17 17:41:01 +0000"
@@ -2556,6 +2647,12 @@
     "criteria": {
       "has_tin_plate": "2025-03-17 17:22:44 +0000",
       "has_copper_plate": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-17 19:31:24 +0000"
     },
     "done": true
   },
@@ -2823,6 +2920,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/coal_plate_from_block": {
+    "criteria": {
+      "has_coal_block": "2025-03-17 19:32:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
     "criteria": {
       "has_peridot_gem": "2025-03-17 18:21:12 +0000"
@@ -2844,6 +2947,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
     "criteria": {
       "has_diamond_chestplate": "2025-03-17 18:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-17 19:32:36 +0000"
     },
     "done": true
   },
@@ -2914,6 +3023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-17 19:32:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-03-17 18:44:43 +0000"
@@ -2974,9 +3089,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-03-17 19:31:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
     "criteria": {
       "has_diamond_pickaxe": "2025-03-17 17:57:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2025-03-17 19:31:14 +0000"
     },
     "done": true
   },
@@ -3019,6 +3146,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-17 18:21:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/tungsten_nugget": {
+    "criteria": {
+      "has_tungsten_ingot": "2025-03-17 19:31:28 +0000"
     },
     "done": true
   },
@@ -3166,6 +3299,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/superconductor_cable": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-03-17 19:31:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-03-17 19:11:47 +0000"
@@ -3193,6 +3332,12 @@
   "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-03-17 17:58:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/tungsten_plate": {
+    "criteria": {
+      "has_tag_c_ingots_tungsten": "2025-03-17 19:31:28 +0000"
     },
     "done": true
   },
@@ -3436,6 +3581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-17 19:31:14 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-03-17 17:41:01 +0000"
@@ -3536,6 +3687,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-03-17 17:58:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/superconductor": {
+    "criteria": {
+      "has_energy_flow_chip": "2025-03-17 19:31:26 +0000"
     },
     "done": true
   },

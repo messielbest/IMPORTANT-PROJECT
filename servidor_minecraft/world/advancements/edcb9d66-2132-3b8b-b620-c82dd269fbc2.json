@@ -1555,6 +1555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-17 19:36:28 +0000"
+    },
+    "done": true
+  },
   "wormhole:recipes/misc/coal_generator": {
     "criteria": {
       "recipe_condition": "2025-03-17 17:40:24 +0000"
@@ -1570,6 +1576,12 @@
   "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
     "criteria": {
       "has_diamond": "2025-03-17 19:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-17 19:36:28 +0000"
     },
     "done": true
   },
@@ -2233,6 +2245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-17 19:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 17:40:24 +0000"
@@ -2320,6 +2338,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-17 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-17 19:36:28 +0000"
     },
     "done": true
   },
@@ -2527,6 +2551,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-03-17 19:29:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-03-17 19:23:12 +0000"
@@ -2569,9 +2599,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-17 19:33:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-03-17 19:15:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-17 19:33:37 +0000"
     },
     "done": true
   },
@@ -2803,6 +2845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-17 19:36:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/gold_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 18:32:49 +0000"
@@ -2902,6 +2950,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-03-17 19:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-17 19:36:28 +0000"
     },
     "done": true
   },
