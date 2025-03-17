@@ -1,0 +1,70 @@
+{
+  "cache": {
+    "rpg_series:tier_4_weapons": [],
+    "rpg_series:tier_1_armors": [],
+    "rpg_series:tier_2_armors": [],
+    "rpg_series:tier_3_armors": [],
+    "rpg_series:tier_0_accessories": [],
+    "rpg_series:tier_1_accessories": [],
+    "rpg_series:tier_3_weapons": [],
+    "rpg_series:tier_2_accessories": [],
+    "rpg_series:tier_3_accessories": [],
+    "rpg_series:tier_1_weapons": [],
+    "rpg_series:tier_4_relics": [
+      "relics_rpgs:superior_use_area_attack_damage",
+      "relics_rpgs:superior_use_area_defense_health",
+      "relics_rpgs:superior_use_zone_spell_power",
+      "relics_rpgs:superior_use_zone_healing_taken"
+    ],
+    "rpg_series:golden_weapons": [],
+    "rpg_series:tier_2_weapons": [],
+    "rpg_series:theme_loot_dragon": [
+      "relics_rpgs:greater_proc_physical_trance",
+      "relics_rpgs:greater_proc_spell_trance",
+      "relics_rpgs:greater_perk_heal_danger",
+      "relics_rpgs:greater_proc_defense_danger"
+    ],
+    "rpg_series:tier_4_aether_weapons": [],
+    "rpg_series:tier_1_relics": [
+      "relics_rpgs:jewel_figurine_ruby",
+      "relics_rpgs:jewel_figurine_topaz",
+      "relics_rpgs:jewel_figurine_citrine",
+      "relics_rpgs:jewel_figurine_jade",
+      "relics_rpgs:jewel_figurine_sapphire",
+      "relics_rpgs:jewel_figurine_tanzanite",
+      "relics_rpgs:lesser_roll",
+      "relics_rpgs:lesser_use_damage",
+      "relics_rpgs:lesser_use_dex",
+      "relics_rpgs:lesser_use_ranged",
+      "relics_rpgs:lesser_use_health",
+      "relics_rpgs:lesser_use_spell_power",
+      "relics_rpgs:lesser_use_spell_haste",
+      "relics_rpgs:lesser_proc_spell_crit",
+      "relics_rpgs:lesser_proc_crit_damage",
+      "relics_rpgs:lesser_proc_arcane_fire",
+      "relics_rpgs:lesser_proc_frost_healing"
+    ],
+    "rpg_series:tier_2_relics": [
+      "relics_rpgs:medium_proc_attack_damage",
+      "relics_rpgs:medium_proc_attack_speed",
+      "relics_rpgs:medium_proc_ranged_damage",
+      "relics_rpgs:medium_proc_defense",
+      "relics_rpgs:medium_proc_spell_power",
+      "relics_rpgs:medium_proc_spell_haste",
+      "relics_rpgs:medium_proc_arcane_power",
+      "relics_rpgs:medium_proc_fire_power",
+      "relics_rpgs:medium_proc_frost_power",
+      "relics_rpgs:medium_proc_healing_power"
+    ],
+    "rpg_series:tier_3_relics": [
+      "relics_rpgs:greater_perk_roll_damage",
+      "relics_rpgs:greater_perk_melee_stun",
+      "relics_rpgs:greater_perk_ranged_levitate",
+      "relics_rpgs:greater_perk_spell_stun",
+      "relics_rpgs:greater_perk_defense_block",
+      "relics_rpgs:greater_perk_heal_cleanse"
+    ],
+    "rpg_series:tier_4_accessories": [],
+    "rpg_series:tier_0_weapons": []
+  }
+}
