@@ -231,9 +231,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-17 18:39:17 +0000",
+      "chicken": "2025-03-17 19:46:20 +0000",
       "bread": "2025-03-14 21:12:54 +0000",
+      "golden_apple": "2025-03-17 19:44:43 +0000",
       "cooked_mutton": "2025-03-14 21:07:37 +0000",
       "cooked_beef": "2025-03-14 21:06:33 +0000",
+      "porkchop": "2025-03-17 19:43:24 +0000",
       "carrot": "2025-03-17 17:46:53 +0000"
     },
     "done": false
@@ -1344,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-17 19:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-03-17 17:41:01 +0000"
@@ -1765,6 +1774,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-03-17 19:38:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
     "criteria": {
       "has_steel_plate": "2025-03-17 17:22:44 +0000"
@@ -2012,6 +2027,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-03-17 19:43:34 +0000"
+    },
+    "done": true
+  },
   "oritech:recipes/alloy_forgery/compat/alloyforgery/electrum": {
     "criteria": {
       "has_c_ingots_gold": "2025-03-17 17:56:19 +0000"
@@ -2160,6 +2181,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-17 17:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-17 19:38:57 +0000"
     },
     "done": true
   },
@@ -3161,6 +3188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-17 19:45:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
     "criteria": {
       "has_diamond_leggings": "2025-03-17 18:53:59 +0000"
@@ -3425,6 +3458,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-03-17 19:38:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_boots": {
     "criteria": {
       "has_iron_boots": "2025-03-17 19:21:52 +0000"
@@ -3461,6 +3500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-17 19:45:03 +0000"
+    },
+    "done": true
+  },
   "oritech:recipes/misc/nickel_ingot_from_smelting_raw_nickel": {
     "criteria": {
       "has_raw_nickel": "2025-03-17 18:03:03 +0000"
@@ -3482,6 +3527,12 @@
   "techreborn:recipes/centrifuge/methan_cell_from_bread": {
     "criteria": {
       "has_bread": "2025-03-17 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-17 19:45:03 +0000"
     },
     "done": true
   },

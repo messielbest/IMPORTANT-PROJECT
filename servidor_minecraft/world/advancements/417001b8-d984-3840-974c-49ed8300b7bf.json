@@ -502,6 +502,7 @@
       "cooked_beef": "2025-03-14 21:01:32 +0000",
       "baked_potato": "2025-03-15 00:27:29 +0000",
       "beef": "2025-03-17 18:29:57 +0000",
+      "pumpkin_pie": "2025-03-17 19:40:31 +0000",
       "carrot": "2025-03-17 19:23:51 +0000"
     },
     "done": false
@@ -2930,6 +2931,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-17 19:40:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-17 19:06:41 +0000"
@@ -3062,6 +3069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-03-17 18:31:34 +0000"
@@ -3170,6 +3183,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_materials/silver": {
+    "criteria": {
+      "has_tag_c_raw_materials_silver": "2025-03-17 19:40:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
     "criteria": {
       "has_basic_machine_frame": "2025-03-17 19:30:40 +0000"
@@ -3179,6 +3198,12 @@
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
     "criteria": {
       "has_diamond_hoe": "2025-03-17 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-03-17 19:40:22 +0000"
     },
     "done": true
   },
@@ -3380,6 +3405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-17 19:06:41 +0000"
@@ -3407,6 +3438,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-17 18:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-17 19:40:22 +0000"
     },
     "done": true
   },
@@ -3464,6 +3501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/rubber_from_slime_ball": {
     "criteria": {
       "has_slime_ball": "2025-03-17 19:16:16 +0000"
@@ -3485,6 +3528,12 @@
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
     "criteria": {
       "has_copper": "2025-03-17 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_materials/silver": {
+    "criteria": {
+      "has_tag_c_raw_materials_silver": "2025-03-17 19:40:16 +0000"
     },
     "done": true
   },
@@ -3589,6 +3638,12 @@
       "has_chicken": "2025-03-17 19:34:45 +0000"
     },
     "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "crit_1": "2025-03-17 19:40:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
@@ -3711,6 +3766,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/compat/forge_silver_ingots_from_raw_material": {
+    "criteria": {
+      "has_silver_ingots_from_raw_material": "2025-03-17 19:40:16 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-17 19:40:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_pickaxe": {
     "criteria": {
       "has_wooden_pickaxe": "2025-03-17 18:27:30 +0000"
@@ -3747,6 +3820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-17 18:41:26 +0000"
@@ -3762,6 +3841,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-17 19:06:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-03-17 19:40:16 +0000"
     },
     "done": true
   },
@@ -3897,6 +3982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-17 19:11:50 +0000"
@@ -3954,6 +4045,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-17 19:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
     },
     "done": true
   },
@@ -4095,6 +4192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-17 19:11:50 +0000"
@@ -4137,6 +4240,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-17 19:40:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-03-17 19:30:00 +0000"
@@ -4167,9 +4276,33 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-03-17 19:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-03-17 19:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-17 19:29:03 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-17 19:40:22 +0000"
     },
     "done": true
   },
@@ -4182,6 +4315,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-03-17 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-17 19:40:22 +0000"
     },
     "done": true
   },

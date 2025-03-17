@@ -197,6 +197,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-14 20:46:48 +0000",
+      "minecraft:spider": "2025-03-17 19:39:56 +0000",
       "minecraft:zombie": "2025-03-17 18:47:58 +0000",
       "minecraft:zombie_villager": "2025-03-17 18:48:04 +0000"
     },
@@ -269,7 +270,8 @@
       "bread": "2025-03-17 17:34:14 +0000",
       "golden_apple": "2025-03-17 18:50:10 +0000",
       "beef": "2025-03-17 18:29:40 +0000",
-      "porkchop": "2025-03-17 17:28:00 +0000"
+      "porkchop": "2025-03-17 17:28:00 +0000",
+      "carrot": "2025-03-17 19:42:47 +0000"
     },
     "done": false
   },
@@ -1183,6 +1185,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-17 19:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 18:32:57 +0000"
@@ -1228,6 +1236,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-17 18:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-17 19:43:58 +0000"
     },
     "done": true
   },
@@ -1324,6 +1338,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 18:32:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-03-17 19:38:13 +0000"
     },
     "done": true
   },
@@ -2323,6 +2343,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-03-17 19:39:33 +0000"
+    },
+    "done": true
+  },
   "wormhole:recipes/misc/basic_target_cell": {
     "criteria": {
       "recipe_condition": "2025-03-17 17:40:24 +0000"
@@ -2455,6 +2481,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-17 19:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 17:40:24 +0000"
@@ -2524,6 +2556,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-17 18:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-03-17 19:44:00 +0000"
     },
     "done": true
   },
@@ -2656,6 +2694,18 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-17 19:43:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-03-17 19:39:33 +0000"
     },
     "done": true
   },
@@ -2851,6 +2901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-17 19:43:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/gold_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-17 18:32:49 +0000"
@@ -2860,6 +2916,12 @@
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
     "criteria": {
       "has_wooden_sword": "2025-03-17 18:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-17 19:43:58 +0000"
     },
     "done": true
   },
