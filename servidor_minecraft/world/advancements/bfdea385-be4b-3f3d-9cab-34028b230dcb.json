@@ -3941,5 +3941,143 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm/desert_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/animal_plains_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/slot/small_slot_upgrade": {
+    "criteria": {
+      "has_oak_planks": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/monster_plains_cave_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/iron_golem_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/ocean_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/swamp_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/nether_fortress_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/enduring_capture_net": {
+    "criteria": {
+      "has_string": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/jungle_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/bee_hive_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/lucky_drop_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
+    "criteria": {
+      "has_porkchop": "2025-03-19 01:47:44 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/loot_enhancement": {
+    "criteria": {
+      "has_emerald": "2025-03-19 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/slot/big_slot_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/experience_enhancement": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-19 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/luck_enhancement": {
+    "criteria": {
+      "has_emerald": "2025-03-19 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/ironbound_containment_cage": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier2_mob_farm_template": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 01:54:22 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier1_mob_farm_template": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-19 01:54:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
+    "criteria": {
+      "has_white_lavender": "2025-03-19 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/plenty_pottery_sherd": {
+    "criteria": {
+      "has_chest": "2025-03-19 01:58:31 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-03-19 01:58:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

@@ -31,25 +31,26 @@
     "criteria": {
       "spider_nest": "2025-03-14 21:33:36 +0000",
       "forested_field": "2025-03-17 18:00:48 +0000",
+      "rocky_shrubland": "2025-03-17 23:34:32 +0000",
+      "redwood_forest": "2025-03-17 18:07:22 +0000",
+      "aspen_glade": "2025-03-14 21:07:04 +0000",
+      "dune_beach": "2025-03-17 23:33:33 +0000",
+      "seasonal_forest": "2025-03-17 18:32:09 +0000",
+      "highland": "2025-03-17 17:34:34 +0000",
+      "jacaranda_glade": "2025-03-17 23:26:12 +0000",
       "mystic_grove": "2025-03-17 18:04:28 +0000",
       "lavender_field": "2025-03-17 23:25:56 +0000",
       "maple_woods": "2025-03-17 17:26:42 +0000",
-      "rocky_shrubland": "2025-03-17 23:34:32 +0000",
-      "redwood_forest": "2025-03-17 18:07:22 +0000",
       "fir_clearing": "2025-03-14 21:00:44 +0000",
       "pumpkin_patch": "2025-03-14 21:09:59 +0000",
       "prairie": "2025-03-17 18:10:16 +0000",
       "grassland": "2025-03-17 23:33:49 +0000",
-      "aspen_glade": "2025-03-14 21:07:04 +0000",
-      "dune_beach": "2025-03-17 23:33:33 +0000",
+      "snowy_fir_clearing": "2025-03-19 00:41:09 +0000",
       "glowing_grotto": "2025-03-17 17:59:37 +0000",
       "gravel_beach": "2025-03-17 18:34:03 +0000",
       "field": "2025-03-14 21:12:34 +0000",
       "orchard": "2025-03-17 23:34:45 +0000",
       "overgrown_greens": "2025-03-17 18:06:55 +0000",
-      "seasonal_forest": "2025-03-17 18:32:09 +0000",
-      "highland": "2025-03-17 17:34:34 +0000",
-      "jacaranda_glade": "2025-03-17 23:26:12 +0000",
       "crag": "2025-03-17 17:50:40 +0000",
       "coniferous_forest": "2025-03-14 20:42:21 +0000",
       "ominous_woods": "2025-03-14 21:16:26 +0000"
@@ -161,6 +162,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-14 21:10:28 +0000",
+      "minecraft:piglin": "2025-03-19 01:37:59 +0000",
       "minecraft:vindicator": "2025-03-17 18:02:28 +0000",
       "minecraft:enderman": "2025-03-17 19:57:03 +0000",
       "minecraft:spider": "2025-03-14 20:59:40 +0000",
@@ -542,21 +544,30 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-14 21:11:01 +0000",
-      "minecraft:beach": "2025-03-14 21:20:23 +0000",
+      "minecraft:snowy_slopes": "2025-03-19 00:42:07 +0000",
       "minecraft:old_growth_pine_taiga": "2025-03-14 21:21:17 +0000",
-      "minecraft:dark_forest": "2025-03-17 23:34:02 +0000",
       "minecraft:forest": "2025-03-14 21:16:20 +0000",
       "minecraft:taiga": "2025-03-14 21:19:49 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-14 21:18:45 +0000",
+      "minecraft:frozen_ocean": "2025-03-19 00:40:56 +0000",
+      "minecraft:frozen_river": "2025-03-19 00:41:25 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-19 00:40:35 +0000",
+      "minecraft:ocean": "2025-03-17 18:38:08 +0000",
+      "minecraft:sunflower_plains": "2025-03-17 18:28:36 +0000",
+      "minecraft:birch_forest": "2025-03-19 00:18:01 +0000",
+      "minecraft:windswept_hills": "2025-03-17 18:11:39 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-03-19 00:36:20 +0000",
+      "minecraft:beach": "2025-03-14 21:20:23 +0000",
+      "minecraft:dark_forest": "2025-03-17 23:34:02 +0000",
       "minecraft:river": "2025-03-14 21:10:54 +0000",
       "minecraft:stony_shore": "2025-03-14 21:07:09 +0000",
       "minecraft:dripstone_caves": "2025-03-14 21:29:13 +0000",
-      "minecraft:deep_cold_ocean": "2025-03-14 21:18:45 +0000",
+      "minecraft:frozen_peaks": "2025-03-19 00:34:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-17 23:34:29 +0000",
-      "minecraft:ocean": "2025-03-17 18:38:08 +0000",
-      "minecraft:sunflower_plains": "2025-03-17 18:28:36 +0000",
+      "minecraft:grove": "2025-03-19 00:34:07 +0000",
       "minecraft:meadow": "2025-03-14 21:23:14 +0000",
-      "minecraft:windswept_hills": "2025-03-17 18:11:39 +0000",
-      "minecraft:plains": "2025-03-17 18:11:40 +0000"
+      "minecraft:plains": "2025-03-17 18:11:40 +0000",
+      "minecraft:jagged_peaks": "2025-03-19 00:42:08 +0000"
     },
     "done": false
   },
@@ -3004,7 +3015,8 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "blastfurnace": "2025-03-17 18:31:42 +0000",
-      "blueprinttable": "2025-03-17 18:31:09 +0000"
+      "blueprinttable": "2025-03-17 18:31:09 +0000",
+      "composter": "2025-03-19 02:03:18 +0000"
     },
     "done": false
   },
@@ -4772,12 +4784,6 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_illager_mansion": {
-    "criteria": {
-      "minecraft:woodland_mansion": "2025-03-17 23:45:11 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-03-17 23:31:27 +0000"
@@ -4811,12 +4817,6 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-17 23:31:27 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_spruce": "2025-03-17 23:42:24 +0000"
     },
     "done": true
   },
@@ -4856,12 +4856,6 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "mansion": "2025-03-17 23:45:11 +0000"
-    },
-    "done": false
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-03-17 23:31:27 +0000"
@@ -4892,12 +4886,6 @@
     },
     "done": true
   },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-03-17 23:42:24 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-17 23:31:27 +0000"
@@ -4919,6 +4907,535 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-17 23:31:27 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_spruce": "2025-03-17 23:42:24 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-03-17 23:42:24 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-03-17 23:45:11 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "mansion": "2025-03-17 23:45:11 +0000"
+    },
+    "done": false
+  },
+  "easy_mob_farm:recipes/mob_farm/desert_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/animal_plains_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/loot_enhancement": {
+    "criteria": {
+      "has_emerald": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/slot/small_slot_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/monster_plains_cave_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/slot/big_slot_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/iron_golem_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/ocean_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/swamp_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/nether_fortress_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:root": {
+    "criteria": {
+      "crafting_table": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/luck_enhancement": {
+    "criteria": {
+      "has_emerald": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/enduring_capture_net": {
+    "criteria": {
+      "has_string": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/jungle_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/ironbound_containment_cage": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/bee_hive_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier2_mob_farm_template": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/lucky_drop_farm": {
+    "criteria": {
+      "has_mob_farm_template": "2025-03-19 00:17:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-19 00:22:40 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier1_mob_farm_template": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-19 00:22:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_ingots_steel": "2025-03-19 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-19 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-19 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-19 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-19 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_ingots_steel": "2025-03-19 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-19 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-19 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-19 00:24:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_brown_mushroom": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-19 01:24:10 +0000",
+      "minecraft:warped_forest": "2025-03-19 01:38:07 +0000"
+    },
+    "done": false
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
+    "criteria": {
+      "has_glass": "2025-03-19 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_warped_wart_block": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-19 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-19 01:18:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-03-19 01:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-19 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_nether_wart_block": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-19 01:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-03-19 01:18:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/experience_enhancement": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier3_mob_farm_template": {
+    "criteria": {
+      "has_glass": "2025-03-19 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-19 01:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-19 01:18:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/block_breaker": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/pollen_trap_enhancement": {
+    "criteria": {
+      "has_iron_bars": "2025-03-19 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-19 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 02:03:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-03-19 02:03:13 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-19 01:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-19 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:crafting/mob_farm_template/tier2_mob_farm_template": {
+    "criteria": {
+      "get_tier2_template": "2025-03-19 01:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-19 02:03:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherrack": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/sheep_enhancement": {
+    "criteria": {
+      "has_shears": "2025-03-19 01:10:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/clay_ball_from_clay": {
+    "criteria": {
+      "has_clay": "2025-03-19 01:18:09 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/speed_enhancement": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-19 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-19 01:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-19 01:24:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-03-19 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_red_mushroom": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/void_binding_chain": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/sword_enhancement": {
+    "criteria": {
+      "has_quartz": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/methan_cell_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-19 01:29:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherrack_dust_from_netherrack_with_water": {
+    "criteria": {
+      "has_netherrack": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-03-19 01:30:10 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/honey_harvester_frame_enhancement": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherrack_dust_from_netherrack_with_mercury": {
+    "criteria": {
+      "has_netherrack": "2025-03-19 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/egg_collector_enhancement": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-19 01:57:24 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
     },
     "done": true
   },
