@@ -762,6 +762,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-03-17 17:33:48 +0000",
       "minecraft:skeleton": "2025-03-14 21:27:11 +0000",
+      "minecraft:enderman": "2025-03-20 01:14:20 +0000",
       "minecraft:spider": "2025-03-17 19:23:02 +0000",
       "minecraft:zombie": "2025-03-17 17:32:31 +0000",
       "minecraft:creeper": "2025-03-17 19:31:06 +0000"
@@ -4096,6 +4097,30 @@
   "techreborn:recipes/centrifuge/methan_cell_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-20 01:05:55 +0000"
+    },
+    "done": true
+  },
+  "wormhole:recipes/misc/portal_stabilizer": {
+    "criteria": {
+      "recipe_condition": "2025-03-20 01:14:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-20 01:14:21 +0000"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-03-20 01:14:21 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-20 01:14:21 +0000"
     },
     "done": true
   },
