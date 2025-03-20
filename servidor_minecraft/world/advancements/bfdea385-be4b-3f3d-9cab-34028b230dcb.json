@@ -30,6 +30,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "jade_cliffs": "2025-03-17 18:25:01 +0000",
+      "spider_nest": "2025-03-20 01:03:42 +0000",
       "lavender_field": "2025-03-17 18:13:19 +0000",
       "shrubland": "2025-03-17 18:23:14 +0000",
       "maple_woods": "2025-03-14 21:25:19 +0000",
@@ -313,6 +314,7 @@
       "minecraft:stony_shore": "2025-03-14 21:07:06 +0000",
       "minecraft:dripstone_caves": "2025-03-14 21:32:29 +0000",
       "minecraft:deep_cold_ocean": "2025-03-14 21:18:46 +0000",
+      "minecraft:deep_dark": "2025-03-20 01:07:41 +0000",
       "minecraft:ocean": "2025-03-17 18:48:14 +0000",
       "minecraft:grove": "2025-03-17 18:30:25 +0000",
       "minecraft:meadow": "2025-03-14 21:23:18 +0000",
@@ -4076,6 +4078,24 @@
   "trashcans:recipes/misc/item_trash_can": {
     "criteria": {
       "recipe_condition": "2025-03-19 01:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-20 01:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-20 01:05:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/methan_cell_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-20 01:05:55 +0000"
     },
     "done": true
   },
