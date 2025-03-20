@@ -5108,9 +5108,93 @@
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/shroomlight_from_brown_mushroom": {
+  "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
     "criteria": {
-      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+      "has_glass": "2025-03-19 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier3_mob_farm_template": {
+    "criteria": {
+      "has_glass": "2025-03-19 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/block_breaker": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/honey_harvester_frame_enhancement": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/egg_collector_enhancement": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
+    "criteria": {
+      "has_hopper": "2025-03-19 01:09:26 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:crafting/mob_farm_template/tier2_mob_farm_template": {
+    "criteria": {
+      "get_tier2_template": "2025-03-19 01:09:32 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/sheep_enhancement": {
+    "criteria": {
+      "has_shears": "2025-03-19 01:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-19 01:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-19 01:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-03-19 01:18:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/clay_ball_from_clay": {
+    "criteria": {
+      "has_clay": "2025-03-19 01:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-19 01:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-19 01:24:07 +0000"
     },
     "done": true
   },
@@ -5121,42 +5205,6 @@
     },
     "done": false
   },
-  "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
-    "criteria": {
-      "has_glass": "2025-03-19 01:09:08 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/shroomlight_from_warped_wart_block": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-03-19 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-03-19 01:18:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/lamp_led": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-03-19 01:24:17 +0000"
@@ -5166,30 +5214,6 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-03-19 01:24:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
-    "criteria": {
-      "has_bow": "2025-03-19 01:30:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-03-19 02:03:47 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/shroomlight_from_nether_wart_block": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-03-19 01:36:18 +0000"
     },
     "done": true
   },
@@ -5205,51 +5229,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-03-19 01:18:09 +0000"
-    },
-    "done": true
-  },
   "easy_mob_farm:recipes/upgrade/enchancement/experience_enhancement": {
     "criteria": {
       "has_quartz": "2025-03-19 01:24:17 +0000"
-    },
-    "done": true
-  },
-  "easy_mob_farm:recipes/mob_farm_template/tier3_mob_farm_template": {
-    "criteria": {
-      "has_glass": "2025-03-19 01:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-03-19 01:30:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-03-19 01:18:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/block_breaker": {
-    "criteria": {
-      "has_hopper": "2025-03-19 01:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
-    },
-    "done": true
-  },
-  "easy_mob_farm:recipes/upgrade/enchancement/pollen_trap_enhancement": {
-    "criteria": {
-      "has_iron_bars": "2025-03-19 01:26:46 +0000"
     },
     "done": true
   },
@@ -5259,69 +5241,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-03-19 02:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_the_recipe": "2025-03-19 02:03:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
-    "criteria": {
-      "has_tag_minecraft_wooden_slabs": "2025-03-19 02:03:13 +0000"
-    },
-    "done": true
-  },
-  "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
-    "criteria": {
-      "has_hopper": "2025-03-19 01:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-03-19 01:24:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-03-19 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "easy_mob_farm:crafting/mob_farm_template/tier2_mob_farm_template": {
-    "criteria": {
-      "get_tier2_template": "2025-03-19 01:09:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-03-19 02:03:13 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherrack": "2025-03-19 01:24:17 +0000"
-    },
-    "done": true
-  },
-  "easy_mob_farm:recipes/upgrade/enchancement/sheep_enhancement": {
-    "criteria": {
-      "has_shears": "2025-03-19 01:10:59 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/clay_ball_from_clay": {
-    "criteria": {
-      "has_clay": "2025-03-19 01:18:09 +0000"
     },
     "done": true
   },
@@ -5343,36 +5265,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-03-19 02:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-03-19 01:29:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-03-19 01:24:07 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
-    "criteria": {
-      "has_pyrite_dust": "2025-03-19 01:24:23 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/shroomlight_from_red_mushroom": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
-    },
-    "done": true
-  },
   "easy_mob_farm:recipes/mob_catcher/void_binding_chain": {
     "criteria": {
       "has_quartz": "2025-03-19 01:24:17 +0000"
@@ -5385,33 +5277,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/methan_cell_from_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-03-19 01:29:47 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_grinder/netherrack_dust_from_netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2025-03-19 01:24:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/string_from_bow": {
-    "criteria": {
-      "has_bow": "2025-03-19 01:30:10 +0000"
-    },
-    "done": true
-  },
-  "easy_mob_farm:recipes/upgrade/enchancement/honey_harvester_frame_enhancement": {
-    "criteria": {
-      "has_hopper": "2025-03-19 01:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
     },
     "done": true
   },
@@ -5421,9 +5289,99 @@
     },
     "done": true
   },
-  "easy_mob_farm:recipes/upgrade/enchancement/egg_collector_enhancement": {
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
     "criteria": {
-      "has_hopper": "2025-03-19 01:09:26 +0000"
+      "has_pyrite_dust": "2025-03-19 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/pollen_trap_enhancement": {
+    "criteria": {
+      "has_iron_bars": "2025-03-19 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-19 01:29:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/methan_cell_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-19 01:29:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-03-19 01:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-19 01:30:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-03-19 01:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-19 01:36:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_brown_mushroom": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_warped_wart_block": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_nether_wart_block": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_red_mushroom": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-19 01:38:29 +0000"
     },
     "done": true
   },
@@ -5433,9 +5391,51 @@
     },
     "done": true
   },
-  "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_hopper": "2025-03-19 01:09:26 +0000"
+      "has_poppy": "2025-03-19 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-19 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-03-19 02:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-19 02:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 02:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-19 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-19 02:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-19 02:03:47 +0000"
     },
     "done": true
   },
