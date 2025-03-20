@@ -674,3 +674,38 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01:47:55] [Server thread/INFO]: RazlyBlaze lost connection: Timed out
 [01:47:55] [Server thread/INFO]: RazlyBlaze left the game
 [01:47:55] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[01:48:25] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:57087] logged in with entity id 29390 at (-539.8789195531625, 62.110764312744145, -201.4131679523603)
+[01:48:25] [Server thread/INFO]: Sending server config values to client
+[01:48:25] [Server thread/INFO]: RazlyBlaze joined the game
+[01:48:25] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity BoatBOP['Fir Boat'/29391, l='ServerLevel[New World]', x=-539.88, y=62.52, z=-201.41] as it would cause deadlock
+[01:48:25] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[01:48:25] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[01:48:25] [Server thread/INFO]: Receiving client config
+[01:49:35] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[01:49:35] [Server thread/INFO]: RazlyBlaze left the game
+[01:49:35] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[01:51:27] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:57193] logged in with entity id 30964 at (-672.584776811962, 63.0, -267.75387847381234)
+[01:51:27] [Server thread/INFO]: Sending server config values to client
+[01:51:27] [Server thread/INFO]: RazlyBlaze joined the game
+[01:51:27] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[01:51:28] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[01:51:28] [Server thread/INFO]: Receiving client config
+[01:53:17] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[01:53:17] [Server thread/INFO]: RazlyBlaze left the game
+[01:53:17] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[01:54:32] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[01:54:32] [Server thread/INFO]: elpatomaster left the game
+[01:54:32] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[01:54:47] [Server thread/INFO]: Stopping the server
+[01:54:47] [Server thread/INFO]: Stopping server
+[01:54:47] [Server thread/INFO]: Saving players
+[01:54:47] [Server thread/INFO]: Saving worlds
+[01:54:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[01:54:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[01:54:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[01:54:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:54:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:54:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:54:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:54:47] [Server thread/INFO]: Stopping IO worker...
+[01:54:47] [Server thread/INFO]: Stopped IO worker!
