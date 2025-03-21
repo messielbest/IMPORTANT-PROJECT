@@ -605,3 +605,19 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [02:05:34] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -3023, 5, 92, minecraft:overworld
 [02:06:12] [Server thread/INFO]: elpatomaster has completed the challenge [Socialised Loot]
 [02:06:12] [Server thread/INFO]: elpatomaster has made the advancement [Tunnel Treasures]
+[02:25:20] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[02:25:20] [Server thread/INFO]: elpatomaster left the game
+[02:25:20] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[02:28:22] [Server thread/INFO]: Stopping the server
+[02:28:23] [Server thread/INFO]: Stopping server
+[02:28:23] [Server thread/INFO]: Saving players
+[02:28:23] [Server thread/INFO]: Saving worlds
+[02:28:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[02:28:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[02:28:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[02:28:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:28:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:28:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:28:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:28:23] [Server thread/INFO]: Stopping IO worker...
+[02:28:23] [Server thread/INFO]: Stopped IO worker!

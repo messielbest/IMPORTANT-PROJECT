@@ -5593,6 +5593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-03-21 02:06:12 +0000"
@@ -5617,15 +5623,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-21 01:49:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
     },
     "done": true
   },
@@ -5653,6 +5677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-21 01:49:46 +0000"
@@ -5662,6 +5692,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
     },
     "done": true
   },
@@ -5689,15 +5725,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/copper_plate_from_block": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:grinder": {
     "criteria": {
       "crit_0": "2025-03-21 01:45:34 +0000"
     },
     "done": true
   },
+  "oritech:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-03-21 01:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2025-03-21 02:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
     },
     "done": true
   },
@@ -5716,6 +5788,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-03-21 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
     },
     "done": true
   },
