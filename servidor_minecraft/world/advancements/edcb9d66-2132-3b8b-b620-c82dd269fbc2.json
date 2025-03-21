@@ -3066,6 +3066,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-03-21 20:09:55 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
     "criteria": {
       "has_copper_ingot": "2025-03-21 19:35:41 +0000"
@@ -3183,6 +3189,12 @@
   "easy_mob_farm:recipes/mob_farm/lucky_drop_farm": {
     "criteria": {
       "has_mob_farm_template": "2025-03-21 19:35:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/bone": {
+    "criteria": {
+      "has_bone": "2025-03-21 20:09:55 +0000"
     },
     "done": true
   },

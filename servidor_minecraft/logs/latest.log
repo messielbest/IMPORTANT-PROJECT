@@ -917,3 +917,5 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [20:00:12] [Server thread/INFO]: elpatomaster lost connection: Disconnected
 [20:00:12] [Server thread/INFO]: elpatomaster left the game
 [20:00:12] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[20:02:15] [Server thread/INFO]: RazlyBlaze has made the advancement [Flashy Furnace]
+[20:07:28] [Server thread/INFO]: Villager class_1646['Villager'/24280, l='ServerLevel[New World]', x=-3073.30, y=142.06, z=115.50] died, message: 'Villager was slain by Zombie'
