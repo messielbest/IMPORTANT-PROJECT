@@ -1984,9 +1984,10 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-03-17 17:57:27 +0000",
-      "opened_chest": "2025-03-17 17:28:41 +0000"
+      "opened_chest": "2025-03-17 17:28:41 +0000",
+      "opened_cart": "2025-03-21 02:06:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {
@@ -5577,6 +5578,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-03-21 02:06:12 +0000"
     },
     "done": true
   },
