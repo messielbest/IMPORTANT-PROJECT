@@ -4291,5 +4291,23 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
+    "criteria": {
+      "has_rubber_log": "2025-03-21 19:40:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_log": {
+    "criteria": {
+      "has_tag_techreborn_rubber_logs": "2025-03-21 19:40:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
+    "criteria": {
+      "has_rubber_log": "2025-03-21 19:40:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

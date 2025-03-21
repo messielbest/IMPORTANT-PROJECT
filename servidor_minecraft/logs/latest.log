@@ -842,3 +842,47 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [19:28:23] [pool-10-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-4843, y=71, z=379}
 [19:28:57] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
 [19:29:12] [Server thread/INFO]: elpatomaster has made the advancement [Tech Reborn]
+[19:30:31] [pool-10-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=-2923, y=88, z=-1157}
+[19:31:02] [Server thread/INFO]: [Not Secure] <RazlyBlaze> dormi
+[19:31:20] [Server thread/INFO]: [Not Secure] <RazlyBlaze> me van a hacer el amor
+[19:31:36] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3215, y=29, z=-1211}
+[19:32:49] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[19:32:49] [Server thread/INFO]: RazlyBlaze left the game
+[19:32:49] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:33:39] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:51872] logged in with entity id 21219 at (-3099.3604192653256, 64.0, -1147.8331628160136)
+[19:33:39] [Server thread/INFO]: Sending server config values to client
+[19:33:39] [Server thread/INFO]: RazlyBlaze joined the game
+[19:33:39] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:33:40] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[19:33:40] [Server thread/INFO]: Receiving client config
+[19:33:43] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[19:33:43] [Server thread/INFO]: RazlyBlaze left the game
+[19:33:43] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:33:51] [Server thread/INFO]: elpatomaster blew up
+[19:34:27] [Server thread/INFO]: elpatomaster was slain by Enderman
+[19:34:27] [Server thread/INFO]: No grave backup generated (empty grave)
+[19:34:51] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -3080, 153, 19, minecraft:overworld
+[19:35:27] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:51969] logged in with entity id 23058 at (-3099.3604192653256, 64.0, -1147.8331628160136)
+[19:35:27] [Server thread/INFO]: Sending server config values to client
+[19:35:27] [Server thread/INFO]: RazlyBlaze joined the game
+[19:35:27] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:35:27] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[19:35:27] [Server thread/INFO]: Receiving client config
+[19:35:37] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[19:35:37] [Server thread/INFO]: elpatomaster left the game
+[19:35:37] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[19:35:41] [Server thread/INFO]: moreracamilo[/10.241.166.48:52888] logged in with entity id 23777 at (-4368.300000011921, -19.0, -1186.300000011921)
+[19:35:41] [Server thread/INFO]: Sending server config values to client
+[19:35:41] [Server thread/INFO]: moreracamilo joined the game
+[19:35:41] [Server thread/INFO]: Updating all forceload tickets for edcb9d66-2132-3b8b-b620-c82dd269fbc2
+[19:35:43] [Server thread/INFO]: Priority overwritten for player moreracamilo. Claiming: GRAVE / Robbing: INVENTORY
+[19:35:43] [Server thread/INFO]: Receiving client config
+[19:35:46] [Server thread/INFO]: elpatomaster[/10.241.83.103:54076] logged in with entity id 24263 at (-3036.4285755478486, 144.0, 124.12797829916916)
+[19:35:46] [Server thread/INFO]: Sending server config values to client
+[19:35:46] [Server thread/INFO]: elpatomaster joined the game
+[19:35:46] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[19:35:46] [Server thread/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[19:35:46] [Server thread/INFO]: Receiving client config
+[19:40:04] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[19:40:04] [Server thread/INFO]: RazlyBlaze left the game
+[19:40:04] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb

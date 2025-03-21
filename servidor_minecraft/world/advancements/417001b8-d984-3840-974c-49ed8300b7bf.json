@@ -4316,9 +4316,11 @@
   },
   "techreborn:root": {
     "criteria": {
-      "crit_1": "2025-03-17 19:40:16 +0000"
+      "crit_2": "2025-03-21 19:28:47 +0000",
+      "crit_1": "2025-03-17 19:40:16 +0000",
+      "crit_0": "2025-03-21 19:29:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "alloy_forgery:recipes/alloy_forgery/compat/forge_silver_ingots_from_raw_material": {
     "criteria": {
@@ -5794,6 +5796,132 @@
   "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
     "criteria": {
       "has_glass_bottle": "2025-03-21 02:22:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_gems_ruby": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_gems_red_garnet": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2025-03-21 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_ores_galena": "2025-03-21 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/compat/forge_lead_ingots_from_raw_material": {
+    "criteria": {
+      "has_lead_ingots_from_raw_material": "2025-03-21 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_materials/lead": {
+    "criteria": {
+      "has_tag_c_raw_materials_lead": "2025-03-21 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-03-21 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_materials/lead": {
+    "criteria": {
+      "has_tag_c_raw_materials_lead": "2025-03-21 19:29:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_buttons": {
+    "criteria": {
+      "has_tag_minecraft_wooden_buttons": "2025-03-21 19:38:36 +0000"
     },
     "done": true
   },
