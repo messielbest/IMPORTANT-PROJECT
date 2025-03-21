@@ -5575,9 +5575,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/compressor/lead_plate": {
+  "techreborn:recipes/crafting_table/machine/industrial_grinder": {
     "criteria": {
-      "has_tag_c_ingots_lead": "2025-03-21 02:15:50 +0000"
+      "has_grinder": "2025-03-21 01:45:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:grinder": {
+    "criteria": {
+      "crit_0": "2025-03-21 01:45:34 +0000"
     },
     "done": true
   },
@@ -5587,45 +5593,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2025-03-21 02:17:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-03-21 02:18:32 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-03-21 02:06:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-21 02:18:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-21 01:49:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
-    "criteria": {
-      "has_lead_ingot": "2025-03-21 02:15:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-03-21 02:18:32 +0000"
     },
     "done": true
   },
@@ -5635,33 +5605,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-03-21 02:18:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-21 01:49:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-03-21 02:18:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-21 02:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-21 02:18:23 +0000"
     },
     "done": true
   },
@@ -5677,12 +5623,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/copper_bulb": {
-    "criteria": {
-      "has_copper_block": "2025-03-21 02:18:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-21 01:49:46 +0000"
@@ -5695,15 +5635,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_grate": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
-      "has_copper_block": "2025-03-21 02:18:32 +0000"
+      "has_granite": "2025-03-21 01:49:46 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "has_lead_ingot": "2025-03-21 02:15:50 +0000"
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-21 01:56:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-03-21 02:06:12 +0000"
     },
     "done": true
   },
@@ -5713,15 +5665,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-03-21 01:49:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-03-21 02:12:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_ingots_lead": "2025-03-21 02:15:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-03-21 02:15:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-03-21 02:15:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-21 02:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-21 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-21 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-21 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-21 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-03-21 02:18:32 +0000"
     },
     "done": true
   },
@@ -5731,21 +5761,9 @@
     },
     "done": true
   },
-  "techreborn:grinder": {
-    "criteria": {
-      "crit_0": "2025-03-21 01:45:34 +0000"
-    },
-    "done": true
-  },
   "oritech:recipes/misc/copper_ingot": {
     "criteria": {
       "has_the_recipe": "2025-03-21 02:18:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-03-21 01:56:13 +0000"
     },
     "done": true
   },
@@ -5761,39 +5779,21 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
-    "criteria": {
-      "has_glass_bottle": "2025-03-21 02:22:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-03-21 02:18:32 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/industrial_grinder": {
-    "criteria": {
-      "has_grinder": "2025-03-21 01:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-03-21 01:49:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-21 02:18:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-03-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2025-03-21 02:22:34 +0000"
     },
     "done": true
   },

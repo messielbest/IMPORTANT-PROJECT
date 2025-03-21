@@ -594,3 +594,251 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [19:15:38] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
 [19:15:39] [Server thread/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
 [19:15:39] [Server thread/INFO]: Receiving client config
+[19:19:59] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[19:19:59] [Server thread/INFO]: RazlyBlaze left the game
+[19:19:59] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:20:41] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:51213] logged in with entity id 3790 at (-1128.6476758316257, 63.0, -383.43514365412744)
+[19:20:41] [Server thread/INFO]: Sending server config values to client
+[19:20:41] [Server thread/INFO]: RazlyBlaze joined the game
+[19:20:41] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:20:42] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[19:20:42] [Server thread/INFO]: Receiving client config
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -10.025541209313587,0.0,-2.750681472193662
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -10.410946820844401,0.0,-2.857640068885985
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -10.79633928368662,0.0,-2.9646562961837617
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -11.181719912709468,0.0,-3.0717243910249863
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -11.567088859389742,0.0,-3.178842860279474
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -11.952447291962017,0.0,-3.2860066665046475
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -12.337796261837184,0.0,-3.3932112760023756
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -12.723317578129354,0.0,-3.4997824687666252
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -13.109307258403078,0.0,-3.6044942616509275
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -13.496090566870635,0.0,-3.7056791212030475
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -13.883847968516193,0.0,-3.8020070933363854
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -14.272654274169327,0.0,-3.8924435372879316
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -14.662509747173317,0.0,-3.9762049485328816
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -15.053363774324907,0.0,-4.052717543168114
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -15.445132384823182,0.0,-4.121590381371675
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -15.837723036252328,0.0,-4.183280645513946
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -16.23105441111875,0.0,-4.238928434975776
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -16.625049434476978,0.0,-4.289517644293824
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -17.019635967262275,0.0,-4.335895392467023
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -17.41474718441964,0.0,-4.378789525077082
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -17.810321557593397,0.0,-4.41882820798935
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -18.206303059339007,0.0,-4.456546068580678
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -18.6026410004622,0.0,-4.492397392111002
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -18.999289540897053,0.0,-4.526771828521532
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -19.396207715158198,0.0,-4.559997036963637
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -19.793358784694874,0.0,-4.592352553156388
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -20.190710262232187,0.0,-4.624070783774243
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -20.588233162543247,0.0,-4.655349382274551
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -20.985846231100595,0.0,-4.687046622620301
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -21.383468422589658,0.0,-4.719853408943891
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -21.781022854871708,0.0,-4.754314001389048
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -22.178438061597035,0.0,-4.790856128360474
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -22.575650788485746,0.0,-4.8297990736666065
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -22.97260525407637,0.0,-4.871379937629968
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -23.369253534933023,0.0,-4.915765845689293
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -23.765556977763026,0.0,-4.963057377061432
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -24.161483759935436,0.0,-5.0133104967807185
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -24.55700910793439,0.0,-5.066541161007592
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -24.952115400835282,0.0,-5.122729460409289
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -25.34679054234971,0.0,-5.181830835173173
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -25.74102792617714,0.0,-5.243778636913021
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -26.134825469772977,0.0,-5.30849016898776
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -26.528184640432755,0.0,-5.375872097642855
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -26.921110368528616,0.0,-5.445821573463888
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -27.313610928444405,0.0,-5.51822723602811
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -27.705695987398485,0.0,-5.592977559358246
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -28.09737750551608,0.0,-5.669957174852641
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -28.488668705601185,0.0,-5.749051006915124
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -28.87958404000119,0.0,-5.830144265074807
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -29.270139149608212,0.0,-5.91312243782545
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -29.6603498583861,0.0,-5.997874992813081
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -30.050232192316116,0.0,-6.084294991027946
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -20.799680272933756,0.0,-3.5284959322337386
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -21.188954866591985,0.0,-3.617942662709879
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -21.577949591121524,0.0,-3.7087579616110133
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -21.966680542315544,0.0,-3.8008494287451526
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -22.355162154233085,0.0,-3.894133890903106
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -22.743409373304303,0.0,-3.988529074214341
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -23.13143661616641,0.0,-4.083957219945546
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -23.51925783754382,0.0,-4.180344639506075
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -23.906886580164837,0.0,-4.277621305570904
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -24.294335017583535,0.0,-4.375724187961282
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -24.68161510437585,0.0,-4.474592858441895
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -25.068738601763016,0.0,-4.574169228663891
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -25.455716083667994,0.0,-4.674401018183289
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -25.8425580799003,0.0,-4.775237474457242
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -26.22927405983728,0.0,-4.876632918335702
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -26.61587356292307,0.0,-4.978542541234106
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -27.002364146476793,0.0,-5.080929709052725
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -27.38875465726983,0.0,-5.18375406012683
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -27.77505202921634,0.0,-5.286982962584318
+[19:21:26] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -28.161263527293386,0.0,-5.390583352253145
+[19:21:27] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -28.54739568625496,0.0,-5.494525471379291
+[19:21:27] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -28.93345438737947,0.0,-5.598782536122201
+[19:21:27] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -29.319444923817628,0.0,-5.703330441957291
+[19:21:27] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -29.705373087584803,0.0,-5.80814379932508
+[19:21:27] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -30.09124305586397,0.0,-5.9132034531106115
+[19:21:27] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -30.47705962002533,0.0,-6.012337602391256
+[19:21:27] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -30.862827092301586,0.0,-6.012337602391256
+[19:21:27] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -31.24854934997711,0.0,-6.012337602391256
+[19:22:04] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[19:22:04] [Server thread/INFO]: RazlyBlaze left the game
+[19:22:04] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:22:15] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:51296] logged in with entity id 5031 at (-1319.2065935742162, 63.08576431274413, -470.46290588906567)
+[19:22:15] [Server thread/INFO]: Sending server config values to client
+[19:22:15] [Server thread/INFO]: RazlyBlaze joined the game
+[19:22:15] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:22:16] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[19:22:16] [Server thread/INFO]: Receiving client config
+[19:25:30] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved wrongly! 0.2603768022861459
+[19:25:30] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved wrongly! 0.383126307734301
+[19:25:30] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved wrongly! 0.5184888682385917
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.490934954268369,0.0,12.532429264757184
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.384162677841914,0.0,12.337959392572657
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.490934954268369,0.0,12.532429264757184
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.490934954268369,0.0,12.532429264757184
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.490934954268369,0.0,12.532429264757184
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.83651067935125,0.0,12.489254310810907
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.830572578515557,0.0,12.255966268015527
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.821846068670538,0.0,12.00615028454365
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.810460987087708,0.0,11.741472081614234
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.796545693333655,0.0,11.463430305370593
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.780231024751629,0.0,11.173372757554603
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.761650037276468,0.0,10.872511334664068
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.740930140675573,0.0,10.561936262955669
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.71819365874262,0.0,10.24262820959268
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.693562146072964,0.0,9.915468787796726
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.667156458929867,0.0,9.581250387738464
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.63908919288906,0.0,9.240685866254694
+[19:25:32] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.608772410731717,0.0,8.89449866146117
+[19:25:33] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.575068623946663,0.0,8.543448538088114
+[19:25:33] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.536409496437955,0.0,8.18837950165971
+[19:25:33] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.490918207195364,0.0,7.830274529259327
+[19:25:33] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.436514898663972,0.0,7.470313134613775
+[19:25:33] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.371027341044282,0.0,7.109920725427287
+[19:25:33] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.292902060777124,0.0,6.750469434005822
+[19:25:33] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.201098762593347,0.0,6.393226704901622
+[19:25:33] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.094994181528818,0.0,6.039325951513661
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -8.900360623088318,0.0,-5.297956657427335
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -9.269061431808723,0.0,-5.415842043757607
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -9.640156863349375,0.0,-5.5295731721532775
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -10.013446451709797,0.0,-5.639362086283086
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -10.388745258717563,0.0,-5.745418285422943
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -10.765881900286786,0.0,-5.84795280476817
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -11.144699470886962,0.0,-5.947166787251035
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -11.525052918495476,0.0,-6.043260056060717
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -11.906809334461286,0.0,-6.1364237192033215
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -12.289846839750453,0.0,-6.226841059646745
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -12.674052960443305,0.0,-6.314692119483425
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -13.059325631825004,0.0,-6.400142685165633
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -13.445570972821542,0.0,-6.483353291707203
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -13.83270253841647,0.0,-6.564479759469236
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -14.22064182029203,0.0,-6.643666097232426
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -14.609317468059999,0.0,-6.721045687080618
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -14.998663429804765,0.0,-6.796749929899306
+[19:26:07] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! -15.388620199199067,0.0,-6.870897077169047
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.622073136113386,0.0,3.8526721192673676
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.64692250629764,0.0,3.605733819441525
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.64692250629764,0.0,3.605733819441525
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.64692250629764,0.0,3.605733819441525
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.64692250629764,0.0,3.605733819441525
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.64692250629764,0.0,3.605733819441525
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.64692250629764,0.0,3.605733819441525
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.64692250629764,0.0,3.605733819441525
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.64692250629764,0.0,3.605733819441525
+[19:26:11] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.58480946465829,0.0,3.823500793192011
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.48891831683295,0.0,4.018570757134967
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.36268178874957,0.0,4.196421936524985
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.20940348942531,0.0,4.3616507361901995
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 32.03220672159,0.0,4.518085025115738
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 31.83400215011943,0.0,4.668884975560445
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 31.61747077356722,0.0,4.816637628999274
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 31.385057725504794,0.0,4.96344026529232
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 31.13897498822348,0.0,5.110976198154503
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 30.881207627412095,0.0,5.260575938170177
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 30.613526049284474,0.0,5.413275473988165
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 30.33749979615959,0.0,5.569864608018975
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 30.054513400925543,0.0,5.730929733991729
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 29.765781509149292,0.0,5.896888251974474
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 29.471987843979605,0.0,6.067426794187213
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 29.17337133427577,0.0,6.24165293523231
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 28.869828138606408,0.0,6.418199073539995
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 28.56102481275957,0.0,6.595300766460923
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 28.246514812065698,0.0,6.770859855772869
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 27.9258486259464,0.0,6.942490169025405
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 27.598683739602393,0.0,7.107574202905084
+[19:26:12] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 27.264881967850442,0.0,7.263313018812369
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 26.924597852788793,0.0,7.406791381630683
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 26.578351799291795,0.0,7.535043771284563
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 26.227000991458,0.0,7.645825791577863
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 25.871593255616745,0.0,7.737530506478151
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 25.513260325117926,0.0,7.809093494895478
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 25.153140457252675,0.0,7.8599091083801795
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 24.792325693848852,0.0,7.889749642242805
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 24.431520213361182,0.0,7.8993204024937995
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 24.071023316093488,0.0,7.890035322030258
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 23.710764759947324,0.0,7.863858909373448
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 23.35038233896171,0.0,7.823177137910079
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 22.989313012657703,0.0,7.7707122685676495
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 22.627146652570673,0.0,7.708801572509856
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 22.263592355562423,0.0,7.63944760017705
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 21.898454689763184,0.0,7.564354379347606
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 21.5316115522362,0.0,7.484968409754742
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 21.16299834987103,0.0,7.402509226177926
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 20.792593937277616,0.0,7.3180012470509155
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 20.42041108640842,0.0,7.232295557596444
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 20.04648768197694,0.0,7.146093574282645
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 19.670878774982384,0.0,7.059972392223358
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 19.293651837419475,0.0,6.97440036332398
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 18.914882159966965,0.0,6.889755020251528
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 18.534651272907013,0.0,6.806328034463945
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 18.15304225414775,0.0,6.724348603842827
+[19:26:13] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 17.77026013602972,0.0,6.64329831178452
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 17.386485685111893,0.0,6.562748884930443
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 17.00187760895733,0.0,6.482349262163098
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 16.616574773209777,0.0,6.401813982780141
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 16.230698364599903,0.0,6.320912763325396
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 15.844353159647653,0.0,6.239464884867743
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 15.45762958291698,0.0,6.15733040788075
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 15.070606524293908,0.0,6.0743985515191525
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 14.683350532951863,0.0,5.9905921994601385
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 14.295918560165774,0.0,5.905857013020295
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 13.908359664161253,0.0,5.8201553908478445
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 13.52071476378751,0.0,5.73346849347115
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 13.133018249668567,0.0,5.645790612948986
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 12.74529854761795,0.0,5.557127839227974
+[19:26:14] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 12.35757863316394,0.0,5.4674968598643545
+[19:26:15] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 11.969878409421199,0.0,5.3769164543391526
+[19:26:15] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 11.582213069730642,0.0,5.285414703780816
+[19:26:15] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 11.194595438732449,0.0,5.193020623258462
+[19:26:15] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 10.807034264634694,0.0,5.099771484509347
+[19:26:15] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 10.419537484154262,0.0,5.005700851653842
+[19:26:15] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 10.032110355339682,0.0,4.910846366216447
+[19:26:15] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 9.644756682836942,0.0,4.815245627133095
+[19:26:15] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 9.257477964852114,0.0,4.718939897017663
+[19:26:15] [Server thread/WARN]: Fir Boat (vehicle of RazlyBlaze) moved too quickly! 8.870275575848154,0.0,4.621966319672197
+[19:26:27] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[19:26:27] [Server thread/INFO]: RazlyBlaze left the game
+[19:26:27] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:26:35] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:51513] logged in with entity id 10386 at (-2075.3125, 62.110764312744145, -714.6875)
+[19:26:35] [Server thread/INFO]: Sending server config values to client
+[19:26:35] [Server thread/INFO]: RazlyBlaze joined the game
+[19:26:35] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity BoatBOP['Fir Boat'/10387, l='ServerLevel[New World]', x=-2075.31, y=62.52, z=-714.69] as it would cause deadlock
+[19:26:35] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:26:35] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[19:26:35] [Server thread/INFO]: Receiving client config
+[19:27:31] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-2060, y=13, z=-1039}
+[19:28:23] [pool-10-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-4843, y=71, z=379}
+[19:28:57] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
+[19:29:12] [Server thread/INFO]: elpatomaster has made the advancement [Tech Reborn]
