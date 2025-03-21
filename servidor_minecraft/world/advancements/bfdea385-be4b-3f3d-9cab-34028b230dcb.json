@@ -4312,39 +4312,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/compressor/iron_plate_from_block": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
-      "has_iron_block": "2025-03-21 20:04:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-03-21 20:06:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_stair": {
-    "criteria": {
-      "has_rubber_planks": "2025-03-21 19:49:57 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
-    "criteria": {
-      "has_iron_furnace": "2025-03-21 20:02:13 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-03-21 20:04:21 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
-    "criteria": {
-      "has_bone_meal": "2025-03-21 20:06:17 +0000"
+      "has_copper_backpack": "2025-03-21 19:48:39 +0000"
     },
     "done": true
   },
@@ -4354,21 +4324,33 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/misc_block/rubber_door": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-21 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-21 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-21 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_stair": {
     "criteria": {
       "has_rubber_planks": "2025-03-21 19:49:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "techreborn:recipes/crafting_table/misc_block/rubber_door": {
     "criteria": {
-      "has_iron_block": "2025-03-21 20:04:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-21 19:49:19 +0000"
+      "has_rubber_planks": "2025-03-21 19:49:57 +0000"
     },
     "done": true
   },
@@ -4378,27 +4360,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-03-21 19:48:39 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/misc_block/rubber_trapdoor": {
     "criteria": {
       "has_rubber_planks": "2025-03-21 19:49:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-03-21 20:06:17 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-03-21 20:04:21 +0000"
     },
     "done": true
   },
@@ -4420,9 +4384,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+  "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
     "criteria": {
-      "has_polished_andesite": "2025-03-21 19:49:19 +0000"
+      "has_rubber_planks": "2025-03-21 19:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-21 19:56:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
+    "criteria": {
+      "has_iron_furnace": "2025-03-21 20:02:13 +0000"
     },
     "done": true
   },
@@ -4432,15 +4408,33 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-21 20:04:21 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-03-21 20:04:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_polished_andesite": "2025-03-21 19:49:19 +0000"
+      "has_iron_block": "2025-03-21 20:04:21 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-21 20:04:21 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-21 20:04:21 +0000"
     },
     "done": true
   },
@@ -4450,21 +4444,39 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
-    "criteria": {
-      "has_rubber_planks": "2025-03-21 19:49:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-03-21 20:04:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-03-21 19:56:58 +0000"
+      "has_bone_meal": "2025-03-21 20:06:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-03-21 20:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-21 20:06:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2025-03-21 20:28:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+    "criteria": {
+      "has_diamond_axe": "2025-03-21 20:28:29 +0000"
     },
     "done": true
   },

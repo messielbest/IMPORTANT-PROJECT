@@ -3096,6 +3096,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-21 20:27:32 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/slot/small_slot_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 19:35:41 +0000"
@@ -3138,9 +3144,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-21 20:22:58 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_farm/nether_fortress_farm": {
     "criteria": {
       "has_mob_farm_template": "2025-03-21 19:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-21 20:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-21 20:21:18 +0000"
     },
     "done": true
   },
@@ -3156,6 +3180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-21 20:22:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
     "criteria": {
       "has_white_lavender": "2025-03-21 19:56:54 +0000"
@@ -3168,6 +3198,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/chiller": {
+    "criteria": {
+      "has_spruce": "2025-03-21 20:22:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
     "criteria": {
       "has_tall_white_lavender": "2025-03-21 19:56:42 +0000"
@@ -3177,6 +3213,24 @@
   "easy_mob_farm:recipes/mob_farm/bee_hive_farm": {
     "criteria": {
       "has_mob_farm_template": "2025-03-21 19:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-21 20:22:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/methan_cell_from_potato": {
+    "criteria": {
+      "has_potato": "2025-03-21 20:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-21 20:21:18 +0000"
     },
     "done": true
   },
@@ -3195,6 +3249,18 @@
   "techreborn:recipes/chemical_reactor/bone": {
     "criteria": {
       "has_bone": "2025-03-21 20:09:55 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-03-21 20:22:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-21 20:26:44 +0000"
     },
     "done": true
   },
