@@ -628,3 +628,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [22:28:50] [Server thread/INFO]: elpatomaster has made the advancement [What a Deal!]
 [22:28:50] [Server thread/INFO]: elpatomaster has made the advancement [First Trade]
 [22:37:45] [Server thread/INFO]: elpatomaster has made the advancement [Now We're Alloying]
+[23:01:28] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[23:01:28] [Server thread/INFO]: elpatomaster left the game
+[23:01:28] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[23:02:00] [Server thread/INFO]: moreracamilo lost connection: Disconnected
+[23:02:00] [Server thread/INFO]: moreracamilo left the game
+[23:02:00] [Server thread/INFO]: Updating all forceload tickets for edcb9d66-2132-3b8b-b620-c82dd269fbc2
+[23:02:55] [Server thread/INFO]: Stopping the server
+[23:02:55] [Server thread/INFO]: Stopping server
+[23:02:55] [Server thread/INFO]: Saving players
+[23:02:55] [Server thread/INFO]: Saving worlds
+[23:02:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[23:02:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[23:02:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[23:02:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:02:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:02:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:02:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:02:55] [Server thread/INFO]: Stopping IO worker...
+[23:02:55] [Server thread/INFO]: Stopped IO worker!
