@@ -886,3 +886,34 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [19:40:04] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
 [19:40:04] [Server thread/INFO]: RazlyBlaze left the game
 [19:40:04] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:40:44] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:52234] logged in with entity id 28016 at (-3568.8639072900787, 68.0, -1313.8113536628266)
+[19:40:44] [Server thread/INFO]: Sending server config values to client
+[19:40:44] [Server thread/INFO]: RazlyBlaze joined the game
+[19:40:44] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:40:45] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[19:40:45] [Server thread/INFO]: Receiving client config
+[19:42:29] [Server thread/INFO]: RazlyBlaze was slain by Zombie
+[19:42:29] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19:42:29] [Server thread/ERROR]: Combo count: 4 is dual wielding: false
+[19:42:29] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[19:42:29] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[19:42:29] [Server thread/ERROR]: Selected slot server: 0 | client: 0
+[19:42:46] [Server thread/INFO]: RazlyBlaze claimed a grave belonging to RazlyBlaze at -3653, 40, -1278, minecraft:overworld
+[19:42:55] [Server thread/INFO]: RazlyBlaze was slain by Zombie
+[19:43:50] [Server thread/INFO]: RazlyBlaze claimed a grave belonging to RazlyBlaze at -3653, 38, -1280, minecraft:overworld
+[19:44:14] [Server thread/INFO]: RazlyBlaze was slain by Zombie
+[19:44:14] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19:44:14] [Server thread/ERROR]: Combo count: 1 is dual wielding: false
+[19:44:14] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[19:44:14] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[19:44:14] [Server thread/ERROR]: Selected slot server: 0 | client: 0
+[19:44:26] [Server thread/INFO]: RazlyBlaze claimed a grave belonging to RazlyBlaze at -3653, 39, -1280, minecraft:overworld
+[19:44:50] [Server thread/INFO]: [Not Secure] <elpatomaster> xaero-waypoint:casita:C:-3026:145:72:5:false:0:Internal-overworld-waypoints
+[19:45:47] [Server thread/INFO]: RazlyBlaze claimed a grave belonging to RazlyBlaze at -3661, 33, -1293, minecraft:overworld
+[19:47:05] [Server thread/INFO]: RazlyBlaze was burned to a crisp while fighting Zombie
+[19:48:06] [Server thread/INFO]: RazlyBlaze claimed a grave belonging to RazlyBlaze at -3672, 27, -1289, minecraft:overworld
+[19:56:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3164, y=141, z=185} class_2338{x=-3164, y=139, z=186}
+[19:56:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3164, y=141, z=185} class_2338{x=-3164, y=139, z=186}
+[20:00:12] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[20:00:12] [Server thread/INFO]: elpatomaster left the game
+[20:00:12] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf

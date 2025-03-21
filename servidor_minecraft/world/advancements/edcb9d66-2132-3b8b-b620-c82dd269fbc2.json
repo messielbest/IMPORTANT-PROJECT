@@ -29,6 +29,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "gravel_beach": "2025-03-21 19:46:21 +0000",
+      "field": "2025-03-21 19:56:37 +0000",
       "highland": "2025-03-17 17:37:10 +0000",
       "maple_woods": "2025-03-17 17:36:42 +0000",
       "coniferous_forest": "2025-03-14 20:42:25 +0000",
@@ -3070,6 +3072,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
+    "criteria": {
+      "has_iron_shovel": "2025-03-21 19:55:01 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_farm/desert_farm": {
     "criteria": {
       "has_mob_farm_template": "2025-03-21 19:35:41 +0000"
@@ -3130,15 +3138,33 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_catcher/enduring_capture_net": {
+    "criteria": {
+      "has_string": "2025-03-21 19:42:36 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_farm/jungle_farm": {
     "criteria": {
       "has_mob_farm_template": "2025-03-21 19:35:41 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
+    "criteria": {
+      "has_white_lavender": "2025-03-21 19:56:54 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_catcher/ironbound_containment_cage": {
     "criteria": {
       "has_iron_ingot": "2025-03-21 19:35:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-03-21 19:56:42 +0000"
     },
     "done": true
   },
@@ -3157,6 +3183,12 @@
   "easy_mob_farm:recipes/mob_farm/lucky_drop_farm": {
     "criteria": {
       "has_mob_farm_template": "2025-03-21 19:35:41 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/filter/no_meat_filter": {
+    "criteria": {
+      "has_beef": "2025-03-21 19:48:52 +0000"
     },
     "done": true
   },
