@@ -619,3 +619,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [22:03:24] [Server thread/INFO]: elpatomaster has made the advancement [Not So Sticky]
 [22:04:18] [Server thread/INFO]: elpatomaster has made the advancement [Storing Power]
 [22:04:37] [Server thread/INFO]: elpatomaster has made the advancement [LIMITED POWER!]
+[22:14:57] [Server thread/INFO]: moreracamilo[/10.241.166.48:62591] logged in with entity id 7756 at (-3052.232580262091, 151.0, -22.118717261306323)
+[22:14:57] [Server thread/INFO]: Sending server config values to client
+[22:14:57] [Server thread/INFO]: moreracamilo joined the game
+[22:14:57] [Server thread/INFO]: Updating all forceload tickets for edcb9d66-2132-3b8b-b620-c82dd269fbc2
+[22:14:58] [Server thread/INFO]: Priority overwritten for player moreracamilo. Claiming: GRAVE / Robbing: INVENTORY
+[22:14:58] [Server thread/INFO]: Receiving client config
