@@ -161,6 +161,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-03-21 01:50:08 +0000",
       "minecraft:skeleton": "2025-03-14 21:10:28 +0000",
       "minecraft:piglin": "2025-03-19 01:37:59 +0000",
       "minecraft:vindicator": "2025-03-17 18:02:28 +0000",
@@ -564,6 +565,7 @@
       "minecraft:dripstone_caves": "2025-03-14 21:29:13 +0000",
       "minecraft:frozen_peaks": "2025-03-19 00:34:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-17 23:34:29 +0000",
+      "minecraft:deep_dark": "2025-03-21 01:55:44 +0000",
       "minecraft:grove": "2025-03-19 00:34:07 +0000",
       "minecraft:meadow": "2025-03-14 21:23:14 +0000",
       "minecraft:plains": "2025-03-17 18:11:40 +0000",
@@ -5572,15 +5574,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:grinder": {
     "criteria": {
       "crit_0": "2025-03-21 01:45:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-21 01:56:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/industrial_grinder": {
     "criteria": {
       "has_grinder": "2025-03-21 01:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-03-21 01:49:46 +0000"
     },
     "done": true
   },

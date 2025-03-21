@@ -588,3 +588,11 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01:43:59] [Server thread/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
 [01:43:59] [Server thread/INFO]: Receiving client config
 [01:45:34] [Server thread/INFO]: elpatomaster has made the advancement [Dust To Dust]
+[01:58:40] [Server thread/INFO]: elpatomaster was slain by Mimic
+[02:00:26] [Server thread/INFO]: elpatomaster was impaled on a stalagmite
+[02:00:40] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -3042, 72, 114, minecraft:overworld
+[02:00:59] [Server thread/INFO]: elpatomaster was slain by Spider
+[02:02:02] [Server thread/INFO]: elpatomaster was slain by Mimic
+[02:02:02] [Server thread/INFO]: No grave backup generated (empty grave)
+[02:02:37] [Server thread/INFO]: elpatomaster fell from a high place
+[02:02:37] [Server thread/INFO]: No grave backup generated (empty grave)
