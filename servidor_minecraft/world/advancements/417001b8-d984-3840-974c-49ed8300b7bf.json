@@ -5524,24 +5524,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-03-20 01:31:23 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
-    "criteria": {
-      "has_tag_minecraft_wooden_doors": "2025-03-20 01:30:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-03-20 01:31:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-03-20 01:29:49 +0000"
@@ -5560,15 +5542,45 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/oak": {
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
     "criteria": {
-      "has_wood": "2025-03-20 01:31:23 +0000"
+      "has_tag_minecraft_wooden_doors": "2025-03-20 01:30:18 +0000"
     },
     "done": true
   },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
     "criteria": {
       "has_tag_minecraft_wooden_doors": "2025-03-20 01:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-20 01:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-20 01:31:23 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-03-20 01:31:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:grinder": {
+    "criteria": {
+      "crit_0": "2025-03-21 01:45:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_grinder": {
+    "criteria": {
+      "has_grinder": "2025-03-21 01:45:20 +0000"
     },
     "done": true
   },
