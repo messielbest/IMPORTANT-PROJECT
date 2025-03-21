@@ -928,3 +928,12 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [20:21:48] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
 [20:21:48] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
 [20:21:48] [Server thread/INFO]: Receiving client config
+[20:38:00] [Server thread/INFO]: elpatomaster[/10.241.83.103:54681] logged in with entity id 59340 at (-3562.9504395421145, 64.0, -340.7773446646172)
+[20:38:00] [Server thread/INFO]: Sending server config values to client
+[20:38:00] [Server thread/INFO]: elpatomaster joined the game
+[20:38:00] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[20:38:00] [Server thread/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[20:38:00] [Server thread/INFO]: Receiving client config
+[20:40:31] [Server thread/INFO]: No return portal found
+[20:40:31] [Server thread/INFO]: RazlyBlaze has made the advancement [We Need to Go Deeper]
+[20:40:57] [Server thread/WARN]: elpatomaster moved wrongly!
