@@ -6030,6 +6030,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-21 22:57:50 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_professions_traded": {
     "criteria": {
       "librarian": "2025-03-21 22:47:59 +0000",
