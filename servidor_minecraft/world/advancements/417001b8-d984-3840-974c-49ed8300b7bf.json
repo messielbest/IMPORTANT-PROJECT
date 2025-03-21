@@ -6032,6 +6032,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "librarian": "2025-03-21 22:47:59 +0000",
       "fisherman": "2025-03-21 22:28:50 +0000"
     },
     "done": false
