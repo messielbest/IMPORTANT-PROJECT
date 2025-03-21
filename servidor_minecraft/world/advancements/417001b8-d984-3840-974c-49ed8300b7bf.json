@@ -3017,6 +3017,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-03-21 22:28:03 +0000",
       "gardeningtable": "2025-03-20 01:41:37 +0000",
       "blastfurnace": "2025-03-17 18:31:42 +0000",
       "blueprinttable": "2025-03-17 18:31:09 +0000",
@@ -6028,6 +6029,12 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fisherman": "2025-03-21 22:28:50 +0000"
+    },
+    "done": false
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
     "criteria": {
       "has_rubber_log": "2025-03-21 21:59:00 +0000"
@@ -6037,6 +6044,12 @@
   "techreborn:recipes/crafting_table/machine/diesel_generator": {
     "criteria": {
       "has_solid_fuel_generator": "2025-03-21 22:04:31 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-03-21 22:28:50 +0000"
     },
     "done": true
   },
@@ -6115,6 +6128,18 @@
   "techreborn:recipes/crafting_table/solar_panel/basic_solar_panel": {
     "criteria": {
       "has_solid_fuel_generator": "2025-03-21 22:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-21 22:28:50 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-03-21 22:28:03 +0000"
     },
     "done": true
   },
