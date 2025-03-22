@@ -725,3 +725,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [23:37:35] [Server thread/WARN]: RazlyBlaze moved too quickly! -0.7696255230480347,-10.924775512695305,1.0663787050563194
 [23:38:45] [Server thread/INFO]: RazlyBlaze has made the advancement [What a Deal!]
 [23:38:45] [Server thread/INFO]: RazlyBlaze has made the advancement [First Trade]
+[23:43:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3014, y=143, z=33} class_2338{x=-3014, y=142, z=34}
+[23:43:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3016, y=143, z=32} class_2338{x=-3015, y=142, z=31}
+[23:48:20] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3214, y=-6, z=3662}
+[23:49:19] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3218, y=18, z=4108}

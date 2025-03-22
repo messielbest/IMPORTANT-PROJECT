@@ -3718,15 +3718,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-03-22 22:34:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-03-22 22:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/experience_enhancement": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/sheep_enhancement": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/speed_enhancement": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/void_binding_chain": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/egg_collector_enhancement": {
+    "criteria": {
+      "has_quartz": "2025-03-22 23:44:57 +0000"
     },
     "done": true
   },
