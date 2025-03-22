@@ -607,3 +607,10 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [16:00:13] [Server thread/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
 [16:00:13] [Server thread/INFO]: Receiving client config
 [16:02:24] [Server thread/WARN]: Biplane (vehicle of moreracamilo) moved wrongly! 0.26641405094483694
+[16:11:10] [Server thread/WARN]: moreracamilo moved wrongly!
+[16:11:10] [Server thread/WARN]: elpatomaster moved wrongly!
+[16:11:53] [Server thread/WARN]: elpatomaster moved wrongly!
+[16:12:04] [Server thread/WARN]: elpatomaster moved wrongly!
+[16:13:12] [Server thread/INFO]: elpatomaster has made the advancement [Glow and Behold!]
+[16:14:51] [Server thread/WARN]: elpatomaster moved too quickly! -4.155456853803116,4.720029261751847,-8.71888956122092
+[16:14:51] [Server thread/WARN]: RazlyBlaze moved too quickly! 4.930373211785991,0.6668000063657757,9.030439719328342
