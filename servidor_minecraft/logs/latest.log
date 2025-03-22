@@ -640,3 +640,5 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [22:46:43] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
 [22:46:43] [Server thread/INFO]: Receiving client config
 [22:49:13] [Server thread/INFO]: Applied effect Levitation to RazlyBlaze
+[22:57:52] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-3050, y=2, z=3746} but found not block entity block Block{minecraft:air} at location
+[22:57:52] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-3050, y=2, z=3746}

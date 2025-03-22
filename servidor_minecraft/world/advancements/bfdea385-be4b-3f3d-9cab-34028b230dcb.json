@@ -4952,5 +4952,11 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-03-22 22:46:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
