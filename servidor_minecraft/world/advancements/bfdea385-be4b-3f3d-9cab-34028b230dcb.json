@@ -4500,9 +4500,39 @@
     },
     "done": false
   },
-  "morevillagers:kill_villager": {
+  "techreborn:recipes/assembling_machine/black_bed_from_wool": {
     "criteria": {
-      "killedvillager": "2025-03-22 04:36:17 +0000"
+      "has_black_wool": "2025-03-22 03:53:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-03-22 04:02:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-03-22 04:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-03-22 04:03:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-03-22 04:12:48 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/packed_wheat": {
+    "criteria": {
+      "has_wheat": "2025-03-22 04:12:48 +0000"
     },
     "done": true
   },
@@ -4524,45 +4554,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": "2025-03-22 04:03:30 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/centrifuge/methan_cell_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-03-22 04:12:52 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+  "morevillagers:kill_villager": {
     "criteria": {
-      "has_tag_minecraft_signs": "2025-03-22 04:02:04 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
-    "criteria": {
-      "has_wheat": "2025-03-22 04:12:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
-    "criteria": {
-      "has_tag_minecraft_signs": "2025-03-22 04:02:04 +0000"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/packed_wheat": {
-    "criteria": {
-      "has_wheat": "2025-03-22 04:12:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/black_bed_from_wool": {
-    "criteria": {
-      "has_black_wool": "2025-03-22 03:53:12 +0000"
+      "killedvillager": "2025-03-22 04:36:17 +0000"
     },
     "done": true
   },
