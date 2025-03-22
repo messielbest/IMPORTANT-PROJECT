@@ -29,29 +29,31 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "jade_cliffs": "2025-03-17 18:25:01 +0000",
       "spider_nest": "2025-03-20 01:03:42 +0000",
-      "mystic_grove": "2025-03-22 16:40:34 +0000",
-      "lavender_field": "2025-03-17 18:13:19 +0000",
+      "forested_field": "2025-03-22 19:22:29 +0000",
       "shrubland": "2025-03-17 18:23:14 +0000",
-      "maple_woods": "2025-03-14 21:25:19 +0000",
       "rocky_shrubland": "2025-03-17 18:44:02 +0000",
       "redwood_forest": "2025-03-17 18:32:38 +0000",
+      "aspen_glade": "2025-03-14 21:07:05 +0000",
+      "dune_beach": "2025-03-17 18:48:19 +0000",
+      "seasonal_forest": "2025-03-17 18:08:12 +0000",
+      "highland": "2025-03-17 17:32:03 +0000",
+      "jacaranda_glade": "2025-03-17 18:12:26 +0000",
+      "pasture": "2025-03-17 18:14:16 +0000",
+      "jade_cliffs": "2025-03-17 18:25:01 +0000",
+      "mystic_grove": "2025-03-22 16:40:34 +0000",
+      "lavender_field": "2025-03-17 18:13:19 +0000",
+      "maple_woods": "2025-03-14 21:25:19 +0000",
       "fir_clearing": "2025-03-14 21:00:46 +0000",
       "pumpkin_patch": "2025-03-14 21:09:59 +0000",
       "prairie": "2025-03-17 18:36:22 +0000",
-      "aspen_glade": "2025-03-14 21:07:05 +0000",
-      "dune_beach": "2025-03-17 18:48:19 +0000",
       "gravel_beach": "2025-03-17 18:49:08 +0000",
       "glowing_grotto": "2025-03-17 18:25:07 +0000",
       "field": "2025-03-14 21:12:55 +0000",
       "orchard": "2025-03-17 18:10:31 +0000",
       "overgrown_greens": "2025-03-17 18:33:01 +0000",
-      "seasonal_forest": "2025-03-17 18:08:12 +0000",
-      "highland": "2025-03-17 17:32:03 +0000",
-      "jacaranda_glade": "2025-03-17 18:12:26 +0000",
+      "crag": "2025-03-22 19:30:10 +0000",
       "coniferous_forest": "2025-03-14 20:55:33 +0000",
-      "pasture": "2025-03-17 18:14:16 +0000",
       "ominous_woods": "2025-03-14 21:16:26 +0000"
     },
     "done": false
@@ -318,6 +320,7 @@
       "minecraft:dark_forest": "2025-03-17 18:30:21 +0000",
       "minecraft:forest": "2025-03-14 21:16:20 +0000",
       "minecraft:taiga": "2025-03-14 21:19:49 +0000",
+      "minecraft:deep_ocean": "2025-03-22 19:25:11 +0000",
       "minecraft:river": "2025-03-14 21:10:59 +0000",
       "minecraft:stony_shore": "2025-03-14 21:07:06 +0000",
       "minecraft:dripstone_caves": "2025-03-14 21:32:29 +0000",
@@ -328,6 +331,7 @@
       "minecraft:grove": "2025-03-17 18:30:25 +0000",
       "minecraft:meadow": "2025-03-14 21:23:18 +0000",
       "minecraft:birch_forest": "2025-03-17 18:23:13 +0000",
+      "minecraft:windswept_hills": "2025-03-22 19:32:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-17 18:57:53 +0000",
       "minecraft:plains": "2025-03-14 21:39:03 +0000"
     },
@@ -4618,12 +4622,6 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_shrine": {
-    "criteria": {
-      "shrine_combat": "2025-03-22 18:34:43 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
     "criteria": {
       "has_copper": "2025-03-22 18:19:47 +0000"
@@ -4639,12 +4637,6 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-03-22 18:19:47 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
-    "criteria": {
-      "has_iron_chestplate": "2025-03-22 18:36:38 +0000"
     },
     "done": true
   },
@@ -4708,15 +4700,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-03-22 18:23:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
     "criteria": {
       "has_map": "2025-03-22 18:23:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/copper_door": {
+  "nova_structures:adventure/find_shrine": {
     "criteria": {
-      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+      "shrine_combat": "2025-03-22 18:34:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-22 18:36:38 +0000"
     },
     "done": true
   },
@@ -4726,9 +4736,219 @@
     },
     "done": true
   },
-  "lootr:100loot": {
+  "trashcans:recipes/misc/liquid_trash_can": {
     "criteria": {
-      "opened_100": "2025-03-22 18:23:46 +0000"
+      "recipe_condition": "2025-03-22 18:57:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2025-03-22 18:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-22 18:57:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-22 18:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-22 18:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:rusty": "2025-03-22 19:01:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-22 19:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-22 19:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-22 19:19:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/methan_cell_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-03-22 19:19:09 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-03-22 19:27:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-03-22 19:27:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-03-22 19:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-22 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-22 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-03-22 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-22 19:38:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:08:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-03-22 20:14:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-03-22 20:37:16 +0000"
     },
     "done": true
   },

@@ -31,14 +31,26 @@
     "criteria": {
       "spider_nest": "2025-03-14 21:33:36 +0000",
       "forested_field": "2025-03-17 18:00:48 +0000",
+      "muskeg": "2025-03-22 20:36:07 +0000",
+      "woodland": "2025-03-22 20:44:20 +0000",
+      "shrubland": "2025-03-22 20:03:14 +0000",
+      "snowblossom_grove": "2025-03-22 20:34:47 +0000",
       "rocky_shrubland": "2025-03-17 23:34:32 +0000",
       "redwood_forest": "2025-03-17 18:07:22 +0000",
+      "scrubland": "2025-03-22 20:47:33 +0000",
       "aspen_glade": "2025-03-14 21:07:04 +0000",
       "dune_beach": "2025-03-17 23:33:33 +0000",
+      "floodplain": "2025-03-22 20:44:34 +0000",
       "seasonal_forest": "2025-03-17 18:32:09 +0000",
+      "auroral_garden": "2025-03-22 20:35:33 +0000",
       "highland": "2025-03-17 17:34:34 +0000",
+      "dead_forest": "2025-03-22 20:35:07 +0000",
       "jacaranda_glade": "2025-03-17 23:26:12 +0000",
+      "pasture": "2025-03-22 20:47:53 +0000",
+      "rocky_rainforest": "2025-03-22 20:44:36 +0000",
+      "jade_cliffs": "2025-03-22 20:42:41 +0000",
       "mystic_grove": "2025-03-17 18:04:28 +0000",
+      "cold_desert": "2025-03-22 20:14:56 +0000",
       "lavender_field": "2025-03-17 23:25:56 +0000",
       "maple_woods": "2025-03-17 17:26:42 +0000",
       "fir_clearing": "2025-03-14 21:00:44 +0000",
@@ -46,12 +58,16 @@
       "prairie": "2025-03-17 18:10:16 +0000",
       "grassland": "2025-03-17 23:33:49 +0000",
       "snowy_fir_clearing": "2025-03-19 00:41:09 +0000",
+      "snowy_coniferous_forest": "2025-03-22 20:26:49 +0000",
+      "tundra": "2025-03-22 20:14:42 +0000",
       "glowing_grotto": "2025-03-17 17:59:37 +0000",
       "gravel_beach": "2025-03-17 18:34:03 +0000",
       "field": "2025-03-14 21:12:34 +0000",
       "orchard": "2025-03-17 23:34:45 +0000",
       "overgrown_greens": "2025-03-17 18:06:55 +0000",
+      "rainforest": "2025-03-22 20:44:26 +0000",
       "crag": "2025-03-17 17:50:40 +0000",
+      "snowy_maple_woods": "2025-03-22 20:34:59 +0000",
       "coniferous_forest": "2025-03-14 20:42:21 +0000",
       "ominous_woods": "2025-03-14 21:16:26 +0000"
     },
@@ -549,6 +565,7 @@
       "minecraft:old_growth_pine_taiga": "2025-03-14 21:21:17 +0000",
       "minecraft:forest": "2025-03-14 21:16:20 +0000",
       "minecraft:taiga": "2025-03-14 21:19:49 +0000",
+      "minecraft:deep_ocean": "2025-03-22 19:54:36 +0000",
       "minecraft:deep_cold_ocean": "2025-03-14 21:18:45 +0000",
       "minecraft:frozen_ocean": "2025-03-19 00:40:56 +0000",
       "minecraft:frozen_river": "2025-03-19 00:41:25 +0000",
@@ -558,10 +575,15 @@
       "minecraft:birch_forest": "2025-03-19 00:18:01 +0000",
       "minecraft:windswept_hills": "2025-03-17 18:11:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-19 00:36:20 +0000",
+      "minecraft:snowy_beach": "2025-03-22 20:15:13 +0000",
+      "minecraft:bamboo_jungle": "2025-03-22 20:45:27 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-22 20:43:19 +0000",
       "minecraft:beach": "2025-03-14 21:20:23 +0000",
       "minecraft:dark_forest": "2025-03-17 23:34:02 +0000",
       "minecraft:river": "2025-03-14 21:10:54 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-22 20:43:18 +0000",
       "minecraft:stony_shore": "2025-03-14 21:07:09 +0000",
+      "minecraft:snowy_plains": "2025-03-22 20:21:07 +0000",
       "minecraft:dripstone_caves": "2025-03-14 21:29:13 +0000",
       "minecraft:frozen_peaks": "2025-03-19 00:34:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-17 23:34:29 +0000",
@@ -3023,6 +3045,7 @@
       "blueprinttable": "2025-03-17 18:31:09 +0000",
       "lectern": "2025-03-21 22:31:13 +0000",
       "cauldron": "2025-03-21 19:48:50 +0000",
+      "grindstone": "2025-03-22 19:00:12 +0000",
       "composter": "2025-03-19 02:03:18 +0000"
     },
     "done": false
@@ -6352,6 +6375,138 @@
   "morevillagers:master_trade": {
     "criteria": {
       "villagertrade": "2025-03-22 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_shrine": {
+    "criteria": {
+      "shrine_combat": "2025-03-22 20:21:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/platinum_dust": {
+    "criteria": {
+      "has_tag_c_ingots_platinum": "2025-03-22 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-03-22 19:05:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/platinum_plate": {
+    "criteria": {
+      "has_tag_c_ingots_platinum": "2025-03-22 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/platinum_blockblock": {
+    "criteria": {
+      "has_platinum_ingot": "2025-03-22 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/alloy_forgery/compat/alloyforgery/duratium": {
+    "criteria": {
+      "has_c_ingots_platinum": "2025-03-22 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/snort_pottery_sherd": {
+    "criteria": {
+      "has_turtle_scute": "2025-03-22 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-22 19:00:09 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-03-22 20:45:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/advanced_alloy_plate": {
+    "criteria": {
+      "has_tag_c_ingots_advanced_alloy": "2025-03-22 20:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:wander_add_map": {
+    "criteria": {
+      "wandering": "2025-03-22 19:50:35 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/iron_block": {
+    "criteria": {
+      "has_iron": "2025-03-22 20:13:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
+    "criteria": {
+      "has_advanced_alloy_ingot": "2025-03-22 20:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-03-22 20:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-03-22 20:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_turtle_scute": "2025-03-22 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-22 20:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-03-22 20:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-22 20:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-22 20:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-22 20:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-22 20:45:26 +0000"
     },
     "done": true
   },
