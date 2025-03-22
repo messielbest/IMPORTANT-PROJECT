@@ -232,6 +232,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-17 18:39:17 +0000",
+      "apple": "2025-03-22 04:11:04 +0000",
       "chicken": "2025-03-17 19:46:20 +0000",
       "bread": "2025-03-14 21:12:54 +0000",
       "golden_apple": "2025-03-17 19:44:43 +0000",
@@ -615,6 +616,7 @@
     "criteria": {
       "smoker": "2025-03-17 19:50:36 +0000",
       "blastfurnace": "2025-03-17 19:25:07 +0000",
+      "lectern": "2025-03-22 04:36:24 +0000",
       "oceanographytable": "2025-03-14 21:13:22 +0000",
       "brewingstand": "2025-03-20 01:38:45 +0000"
     },
@@ -4468,13 +4470,13 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-03-21 20:40:32 +0000"
-    },
-    "done": false
-  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2025-03-21 20:28:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
     "criteria": {
       "has_diamond_axe": "2025-03-21 20:28:29 +0000"
     },
@@ -4492,9 +4494,75 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_diamond_axe": "2025-03-21 20:28:29 +0000"
+      "minecraft:nether_wastes": "2025-03-21 20:40:32 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-03-22 04:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-22 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-22 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-22 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-03-22 04:03:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/methan_cell_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-22 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-03-22 04:02:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-03-22 04:12:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-03-22 04:02:04 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/packed_wheat": {
+    "criteria": {
+      "has_wheat": "2025-03-22 04:12:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/black_bed_from_wool": {
+    "criteria": {
+      "has_black_wool": "2025-03-22 03:53:12 +0000"
     },
     "done": true
   },
