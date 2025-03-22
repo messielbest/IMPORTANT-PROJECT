@@ -3622,87 +3622,9 @@
     },
     "done": true
   },
-  "waystones:recipes/decorations/return_scroll": {
-    "criteria": {
-      "has_paper": "2025-03-22 20:10:02 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:master_trade": {
-    "criteria": {
-      "villagertrade": "2025-03-22 20:15:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-03-22 20:11:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-03-22 20:10:54 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/blank_scroll": {
-    "criteria": {
-      "has_paper": "2025-03-22 20:10:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-03-22 20:11:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-03-22 20:10:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-03-22 20:10:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-03-22 20:10:54 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
     "criteria": {
       "has_spruce_stairs": "2025-03-22 19:28:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-03-22 20:11:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-03-22 20:10:54 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/blueprint_table": {
-    "criteria": {
-      "has_paper": "2025-03-22 20:10:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-03-22 20:10:54 +0000"
     },
     "done": true
   },
@@ -3712,9 +3634,87 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2025-03-22 20:10:02 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-03-22 20:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-22 20:10:02 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-03-22 20:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-22 20:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-22 20:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-03-22 20:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-22 20:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-22 20:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-22 20:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-22 20:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-22 20:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-22 20:11:54 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-03-22 20:15:29 +0000"
     },
     "done": true
   },
