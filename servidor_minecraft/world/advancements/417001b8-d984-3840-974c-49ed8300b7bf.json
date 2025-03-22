@@ -6205,5 +6205,89 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-03-22 16:12:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-03-22 16:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-03-22 16:13:12 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/compat/forge_tin_ingots_from_raw_material": {
+    "criteria": {
+      "has_tin_ingots_from_raw_material": "2025-03-22 16:19:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2025-03-22 16:19:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_materials/tin": {
+    "criteria": {
+      "has_tag_c_raw_materials_tin": "2025-03-22 16:19:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_materials/tin": {
+    "criteria": {
+      "has_tag_c_raw_materials_tin": "2025-03-22 16:19:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/diamond_small_dust_from_dust": {
+    "criteria": {
+      "has_diamond_dust": "2025-03-22 16:19:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/diamond_2": {
+    "criteria": {
+      "has_tag_c_dusts_diamond": "2025-03-22 16:19:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/diamond": {
+    "criteria": {
+      "has_tag_c_dusts_diamond": "2025-03-22 16:19:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate": {
+    "criteria": {
+      "has_tag_c_dusts_diamond": "2025-03-22 16:19:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel": {
+    "criteria": {
+      "has_industrial_solar_panel": "2025-03-22 16:21:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:industrialsolar": {
+    "criteria": {
+      "crit_0": "2025-03-22 16:22:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:electricfurnace": {
+    "criteria": {
+      "crit_0": "2025-03-22 16:22:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

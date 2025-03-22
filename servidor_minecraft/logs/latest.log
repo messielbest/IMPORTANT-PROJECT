@@ -614,3 +614,34 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [16:13:12] [Server thread/INFO]: elpatomaster has made the advancement [Glow and Behold!]
 [16:14:51] [Server thread/WARN]: elpatomaster moved too quickly! -4.155456853803116,4.720029261751847,-8.71888956122092
 [16:14:51] [Server thread/WARN]: RazlyBlaze moved too quickly! 4.930373211785991,0.6668000063657757,9.030439719328342
+[16:22:09] [Server thread/INFO]: elpatomaster has reached the goal [Industrialization of Sunlight]
+[16:22:39] [Server thread/INFO]: elpatomaster has made the advancement [Industrialization]
+[16:26:26] [Server thread/INFO]: RazlyBlaze has made the advancement [Now We're Alloying]
+[16:26:35] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[16:26:35] [Server thread/INFO]: elpatomaster left the game
+[16:26:35] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[16:28:44] [Server thread/INFO]: elpatomaster[/10.241.83.103:53726] logged in with entity id 17651 at (-3020.639833254207, 142.9375, 105.55087606289638)
+[16:28:44] [Server thread/INFO]: Sending server config values to client
+[16:28:44] [Server thread/INFO]: elpatomaster joined the game
+[16:28:44] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[16:28:46] [Server thread/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[16:28:46] [Server thread/INFO]: Receiving client config
+[16:29:01] [pool-10-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=-1803, y=75, z=987}
+[16:29:56] [Server thread/INFO]: [Not Secure] <RazlyBlaze> sebi se la come
+[16:30:13] [Server thread/INFO]: [Not Secure] <RazlyBlaze> me lo dijo el
+[16:30:16] [Server thread/INFO]: [Not Secure] <RazlyBlaze> le gusta el pito
+[16:30:32] [Server thread/INFO]: [Not Secure] <RazlyBlaze> y es fan de cristiano ronaldo
+[16:31:03] [Server thread/INFO]: [Not Secure] <RazlyBlaze> y queria que kiki salga campeon del mundo
+[16:31:26] [Server thread/INFO]: [Not Secure] <RazlyBlaze> y moreracamilo tiene que dormir
+[16:35:01] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[16:35:01] [Server thread/INFO]: elpatomaster left the game
+[16:35:01] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[16:35:07] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[16:35:07] [Server thread/INFO]: RazlyBlaze left the game
+[16:35:07] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[16:35:17] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:64883] logged in with entity id 22140 at (-1154.4365191108252, 63.085764312744146, 1121.6899895205584)
+[16:35:17] [Server thread/INFO]: Sending server config values to client
+[16:35:17] [Server thread/INFO]: RazlyBlaze joined the game
+[16:35:17] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[16:35:17] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[16:35:18] [Server thread/INFO]: Receiving client config
