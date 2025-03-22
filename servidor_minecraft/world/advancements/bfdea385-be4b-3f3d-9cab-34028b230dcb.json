@@ -31,6 +31,7 @@
     "criteria": {
       "jade_cliffs": "2025-03-17 18:25:01 +0000",
       "spider_nest": "2025-03-20 01:03:42 +0000",
+      "mystic_grove": "2025-03-22 16:40:34 +0000",
       "lavender_field": "2025-03-17 18:13:19 +0000",
       "shrubland": "2025-03-17 18:23:14 +0000",
       "maple_woods": "2025-03-14 21:25:19 +0000",
@@ -232,16 +233,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-17 18:39:17 +0000",
-      "apple": "2025-03-22 04:11:04 +0000",
       "chicken": "2025-03-17 19:46:20 +0000",
       "bread": "2025-03-14 21:12:54 +0000",
       "golden_apple": "2025-03-17 19:44:43 +0000",
-      "cooked_chicken": "2025-03-21 19:40:54 +0000",
-      "enchanted_golden_apple": "2025-03-21 19:59:04 +0000",
       "cooked_mutton": "2025-03-14 21:07:37 +0000",
+      "sweet_berries": "2025-03-22 17:56:47 +0000",
       "cooked_beef": "2025-03-14 21:06:33 +0000",
+      "beef": "2025-03-22 17:53:50 +0000",
       "porkchop": "2025-03-17 19:43:24 +0000",
       "golden_carrot": "2025-03-21 19:54:24 +0000",
+      "apple": "2025-03-22 04:11:04 +0000",
+      "cooked_chicken": "2025-03-21 19:40:54 +0000",
+      "enchanted_golden_apple": "2025-03-21 19:59:04 +0000",
       "carrot": "2025-03-17 17:46:53 +0000"
     },
     "done": false
@@ -775,7 +778,8 @@
       "minecraft:spider": "2025-03-17 19:23:02 +0000",
       "minecraft:zombie": "2025-03-17 17:32:31 +0000",
       "minecraft:creeper": "2025-03-17 19:31:06 +0000",
-      "minecraft:drowned": "2025-03-20 01:29:08 +0000"
+      "minecraft:drowned": "2025-03-20 01:29:08 +0000",
+      "minecraft:husk": "2025-03-22 18:35:32 +0000"
     },
     "done": false
   },
@@ -4566,12 +4570,6 @@
     },
     "done": true
   },
-  "techreborn:ironalloyfurnace": {
-    "criteria": {
-      "crit_0": "2025-03-22 16:26:26 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/extractor/flint_from_gravel": {
     "criteria": {
       "has_gravel": "2025-03-22 16:21:38 +0000"
@@ -4584,9 +4582,153 @@
     },
     "done": true
   },
+  "techreborn:ironalloyfurnace": {
+    "criteria": {
+      "crit_0": "2025-03-22 16:26:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/alloy_smelter": {
     "criteria": {
       "has_iron_alloy_furnace": "2025-03-22 16:26:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-03-22 16:40:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-03-22 16:40:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-03-22 16:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-03-22 18:12:11 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_shrine": {
+    "criteria": {
+      "shrine_combat": "2025-03-22 18:34:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
+    "criteria": {
+      "has_copper": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-22 18:36:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
+    "criteria": {
+      "has_copper": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/copper_block": {
+    "criteria": {
+      "has_the_recipe": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall": {
+    "criteria": {
+      "has_copper": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
+    "criteria": {
+      "has_copper": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-03-22 18:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-22 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-22 18:43:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-03-22 18:23:46 +0000"
     },
     "done": true
   },

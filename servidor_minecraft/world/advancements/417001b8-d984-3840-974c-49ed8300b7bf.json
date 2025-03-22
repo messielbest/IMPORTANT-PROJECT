@@ -6289,5 +6289,71 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k_alt": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-03-22 16:45:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/overclocker_upgrade": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-03-22 16:45:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_30k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-03-22 16:45:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-03-22 16:45:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:upgrade": {
+    "criteria": {
+      "crit_0": "2025-03-22 16:47:07 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/crafting_table/machine/recycler": {
+    "criteria": {
+      "has_compressor": "2025-03-22 18:11:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:compressor": {
+    "criteria": {
+      "crit_0": "2025-03-22 18:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-03-22 18:14:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/quantum_solar_panel": {
+    "criteria": {
+      "has_ultimate_solar_panel": "2025-03-22 18:18:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:ultimatesolar": {
+    "criteria": {
+      "crit_0": "2025-03-22 18:18:55 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-03-22 18:21:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
