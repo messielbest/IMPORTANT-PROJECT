@@ -621,3 +621,22 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [22:20:25] [Server thread/INFO]: Priority overwritten for player moreracamilo. Claiming: GRAVE / Robbing: INVENTORY
 [22:20:25] [Server thread/INFO]: Receiving client config
 [22:25:21] [Server thread/INFO]: Villager class_1646['Leatherworker'/55, l='ServerLevel[New World]', x=-3005.86, y=76.00, z=4839.74] died, message: 'Leatherworker hit the ground too hard'
+[22:45:06] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[22:45:06] [Server thread/INFO]: RazlyBlaze left the game
+[22:45:06] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[22:45:25] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:53499] logged in with entity id 22872 at (-3009.2098138614374, 76.0, 4866.133485002143)
+[22:45:25] [Server thread/INFO]: Sending server config values to client
+[22:45:25] [Server thread/INFO]: RazlyBlaze joined the game
+[22:45:25] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[22:45:25] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[22:45:25] [Server thread/INFO]: Receiving client config
+[22:46:32] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[22:46:32] [Server thread/INFO]: RazlyBlaze left the game
+[22:46:32] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[22:46:43] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:53574] logged in with entity id 24247 at (-3011.2591703190046, 75.41999998688698, 4866.622767466246)
+[22:46:43] [Server thread/INFO]: Sending server config values to client
+[22:46:43] [Server thread/INFO]: RazlyBlaze joined the game
+[22:46:43] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[22:46:43] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[22:46:43] [Server thread/INFO]: Receiving client config
+[22:49:13] [Server thread/INFO]: Applied effect Levitation to RazlyBlaze
