@@ -242,6 +242,7 @@
       "sweet_berries": "2025-03-22 17:56:47 +0000",
       "cooked_beef": "2025-03-14 21:06:33 +0000",
       "beef": "2025-03-22 17:53:50 +0000",
+      "baked_potato": "2025-03-23 00:20:43 +0000",
       "porkchop": "2025-03-17 19:43:24 +0000",
       "golden_carrot": "2025-03-21 19:54:24 +0000",
       "apple": "2025-03-22 04:11:04 +0000",
@@ -5157,9 +5158,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/ingot/diamond_from_nugget": {
+    "criteria": {
+      "has_diamond_nugget": "2025-03-23 00:29:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
     "criteria": {
       "has_tag_minecraft_wooden_doors": "2025-03-23 00:16:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/methan_cell_from_baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-03-23 00:20:41 +0000"
     },
     "done": true
   },

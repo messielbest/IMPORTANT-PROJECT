@@ -38,6 +38,7 @@
       "rocky_shrubland": "2025-03-17 23:34:32 +0000",
       "redwood_forest": "2025-03-17 18:07:22 +0000",
       "scrubland": "2025-03-22 20:47:33 +0000",
+      "visceral_heap": "2025-03-23 00:19:45 +0000",
       "aspen_glade": "2025-03-14 21:07:04 +0000",
       "dune_beach": "2025-03-17 23:33:33 +0000",
       "floodplain": "2025-03-22 20:44:34 +0000",
@@ -179,13 +180,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-03-23 00:18:30 +0000",
-      "minecraft:cave_spider": "2025-03-21 01:50:08 +0000",
       "minecraft:skeleton": "2025-03-14 21:10:28 +0000",
+      "minecraft:zombified_piglin": "2025-03-23 00:21:07 +0000",
+      "minecraft:wither_skeleton": "2025-03-23 00:19:19 +0000",
+      "minecraft:ghast": "2025-03-23 00:26:16 +0000",
+      "minecraft:cave_spider": "2025-03-21 01:50:08 +0000",
       "minecraft:piglin": "2025-03-19 01:37:59 +0000",
       "minecraft:vindicator": "2025-03-17 18:02:28 +0000",
       "minecraft:enderman": "2025-03-17 19:57:03 +0000",
+      "minecraft:magma_cube": "2025-03-23 00:25:04 +0000",
       "minecraft:spider": "2025-03-14 20:59:40 +0000",
-      "minecraft:wither_skeleton": "2025-03-23 00:19:19 +0000",
       "minecraft:zombie": "2025-03-14 20:43:13 +0000",
       "minecraft:creeper": "2025-03-17 19:27:08 +0000",
       "minecraft:zombie_villager": "2025-03-17 20:10:57 +0000"
@@ -5235,6 +5239,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-23 00:21:03 +0000",
       "minecraft:nether_wastes": "2025-03-19 01:24:10 +0000",
       "minecraft:warped_forest": "2025-03-19 01:38:07 +0000"
     },
@@ -6519,6 +6524,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-23 00:23:13 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/purple_portstone": {
     "criteria": {
       "has_warp_stone": "2025-03-22 23:57:08 +0000"
@@ -6543,9 +6554,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-23 00:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-03-23 00:18:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
+    "criteria": {
+      "has_nickel_ingot": "2025-03-23 00:23:12 +0000"
     },
     "done": true
   },
@@ -6567,9 +6590,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-23 00:21:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-23 00:23:13 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/alloy_forgery/compat/alloyforgery/energite": {
+    "criteria": {
+      "has_c_ingots_nickel": "2025-03-23 00:23:12 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/blue_portstone": {
     "criteria": {
       "has_warp_stone": "2025-03-22 23:57:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/zinc_plate": {
+    "criteria": {
+      "has_tag_c_ingots_zinc": "2025-03-23 00:23:20 +0000"
     },
     "done": true
   },
@@ -6639,6 +6686,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2025-03-23 00:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-03-23 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-23 00:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-03-23 00:18:09 +0000"
@@ -6654,6 +6719,36 @@
   "waystones:recipes/decorations/sandy_waystone": {
     "criteria": {
       "has_warp_stone": "2025-03-22 23:57:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/zinc_dust": {
+    "criteria": {
+      "has_tag_c_ingots_zinc": "2025-03-23 00:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-23 00:25:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-23 00:23:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
+    "criteria": {
+      "has_zinc_ingot": "2025-03-23 00:23:20 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-23 00:21:10 +0000"
     },
     "done": true
   },
@@ -6675,6 +6770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-23 00:21:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-03-23 00:18:09 +0000"
@@ -6690,6 +6791,12 @@
   "waystones:recipes/decorations/black_portstone": {
     "criteria": {
       "has_warp_stone": "2025-03-22 23:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-23 00:23:22 +0000"
     },
     "done": true
   },
@@ -6711,6 +6818,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/nickel_dust": {
+    "criteria": {
+      "has_tag_c_ingots_nickel": "2025-03-23 00:23:12 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/white_portstone": {
     "criteria": {
       "has_warp_stone": "2025-03-22 23:57:08 +0000"
@@ -6722,6 +6835,18 @@
       "fortress": "2025-03-23 00:18:11 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/zinc_storage_block": {
+    "criteria": {
+      "has_zinc_ingot": "2025-03-23 00:23:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-23 00:23:13 +0000"
+    },
+    "done": true
   },
   "waystones:recipes/decorations/red_sharestone": {
     "criteria": {
@@ -6795,6 +6920,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/nickel_plate": {
+    "criteria": {
+      "has_tag_c_ingots_nickel": "2025-03-23 00:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-03-23 00:18:31 +0000"
@@ -6843,9 +6974,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
+    "criteria": {
+      "has_nickel_ingot": "2025-03-23 00:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-03-23 00:18:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-23 00:23:13 +0000"
     },
     "done": true
   },
