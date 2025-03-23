@@ -26,3 +26,20 @@
 [00:36:03] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
 [00:37:05] [Server thread/INFO]: Villager class_1646['Unemployed'/480, l='ServerLevel[New World]', x=-3099.88, y=141.05, z=114.48] died, message: 'Unemployed was squished too much'
 [00:37:47] [Server thread/INFO]: Villager class_1646['Unemployed'/488, l='ServerLevel[New World]', x=-3099.30, y=141.04, z=114.30] died, message: 'Unemployed was squished too much'
+[00:43:47] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[00:43:47] [Server thread/INFO]: elpatomaster left the game
+[00:43:47] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[00:47:56] [Server thread/INFO]: Stopping the server
+[00:47:56] [Server thread/INFO]: Stopping server
+[00:47:56] [Server thread/INFO]: Saving players
+[00:47:56] [Server thread/INFO]: Saving worlds
+[00:47:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[00:47:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[00:47:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[00:47:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:47:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:47:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:47:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:47:57] [Server thread/INFO]: Stopping IO worker...
+[00:47:57] [Server thread/INFO]: Stopped IO worker!
+[00:47:57] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml
