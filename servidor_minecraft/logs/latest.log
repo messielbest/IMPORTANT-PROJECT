@@ -6,3 +6,8 @@
 [00:09:25] [Server thread/WARN]: RazlyBlaze moved too quickly! -0.5242898295050509,-12.262358999312099,0.9273081960545824
 [00:09:27] [Server thread/INFO]: RazlyBlaze fell from a high place
 [00:09:48] [Server thread/INFO]: RazlyBlaze claimed a grave belonging to RazlyBlaze at -3077, 67, 4844, minecraft:overworld
+[00:17:52] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/101665, l='ServerLevel[New World]', x=-20.00, y=31.00, z=-139.00] as it would cause deadlock
+[00:17:52] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/101667, l='ServerLevel[New World]', x=-20.00, y=31.00, z=-139.00] as it would cause deadlock
+[00:18:11] [Server thread/INFO]: elpatomaster has made the advancement [A Terrible Fortress]
+[00:18:31] [Server thread/INFO]: elpatomaster has made the advancement [Into Fire]
+[00:19:20] [Server thread/INFO]: elpatomaster has made the advancement [Spooky Scary Skeleton]

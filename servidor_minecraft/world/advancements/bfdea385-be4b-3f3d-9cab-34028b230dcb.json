@@ -5157,9 +5157,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-03-23 00:16:49 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_catcher/void_binding_chain": {
     "criteria": {
       "has_chain": "2025-03-23 00:01:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-03-23 00:16:49 +0000"
     },
     "done": true
   },
